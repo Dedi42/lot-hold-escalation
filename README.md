@@ -10,6 +10,8 @@ Companion code for
 Version 2.3.0 is the version cited in the manuscript. It contains all code and the aggregated results
 behind every table and figure of the paper and of its Supplementary Material (see *Paper map* below).
 
+![Figure 1. Framework of the study](figures/Figure1_framework.png)
+
 ## What the code does
 
 | Step | Module | Output |
