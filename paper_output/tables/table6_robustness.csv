@@ -1,0 +1,12 @@
+Hypothesis,Line,B = 6,B = 12,B = 24,B = 48,Decision
+"H6 Heterogeneous α_g, δ_g: mean gain (share of draws > 0)",A,+8.0 (1.00),+10.3 (1.00),+10.2 (1.00),+4.1 (1.00),Supported
+"H6 Heterogeneous α_g, δ_g: mean gain (share of draws > 0)",B,+74.3 (1.00),+14.9 (0.95),+9.0 (1.00),+2.7 (1.00),Supported
+H7 Gain-based vs mean-based index (TOST ±3%),A,+1.9,+2.8,-0.1*,+0.1*,"Equivalent at B = 24, 48"
+H7 Gain-based vs mean-based index (TOST ±3%),B,-0.1*,-0.2,+0.8,-0.1*,"Equivalent at B = 6, 48"
+H8a Transferred model vs oldest-first,A → B,+20.8,+2.0,-1.2,-6.5,Not supported
+H8a Transferred model vs oldest-first,B → A,-3.7,-8.7,-11.7,-1.4,Not supported
+H8b Transferred vs in-line model (non-inferiority 3%),A → B,-31.6,-12.0,-9.6,-9.1,Not supported
+H8b Transferred vs in-line model (non-inferiority 3%),B → A,-10.6,-17.2,-19.9,-5.3,Not supported
+"H10 Lateness removed, ensemble + urgency vs oldest-first",A,+8.7*,+7.6*,+4.8*,+1.7*,Supported
+Flexible daily budget vs fixed per review (range over learners),A,+1.1 to +3.7,-6.0 to +6.1,-14.7 to -7.3,-4.6 to -0.2,Not supported
+Flexible daily budget vs fixed per review (range over learners),B,+1.1 to +3.9,+0.7 to +3.8,+1.6 to +3.9,+0.9 to +4.0,Not significant

@@ -1,0 +1,17 @@
+**Table 5. Hold hours recovered per day on the test period (α = 0.5, δ = 2 h).**
+
+| Policy | A, B = 6 | A, B = 12 | A, B = 24 | A, B = 48 | B, B = 6 | B, B = 12 | B, B = 24 | B, B = 48 |
+|---|---|---|---|---|---|---|---|---|
+| Oldest-first | 61.0 | 80.2 | 111.9 | 136.3 | 259.4 | 692.0 | 1089.6 | 1453.7 |
+| Static p90 rule | 54.7 | 66.5 | 80.8 | 85.0 | 220.2 | 379.1 | 512.2 | 664.4 |
+| Kaplan–Meier (department × reason) | 62.5 | 79.6 | 112.4 | 138.6 | 464.5 | 797.8 | 1197.2 | 1485.0 |
+| LightGBM onset | 63.5 | 86.4 | 121.9 | 140.8 | 417.8 | 782.2 | 1116.9 | 1449.8 |
+| Landmark GBM | 65.7 | 86.5 | 123.1 | 142.7 | 453.6 | 769.5 | 1180.5 | 1500.8 |
+| Ensemble (Equation 4) | 65.8 | 88.4 | 123.2 | 141.9 | 458.1 | 802.7 | 1191.2 | 1496.2 |
+| Ensemble, gain-based | 67.0 | 90.8 | 123.1 | 142.1 | 457.8 | 801.1 | 1200.2 | 1494.3 |
+| Oracle | 88.4 | 113.4 | 136.7 | 147.2 | 474.3 | 926.2 | 1393.2 | 1788.7 |
+| Ensemble vs oldest-first, test period (%) | +7.8 | +10.2* | +10.2* | +4.1* | +76.6† | +16.0† | +9.3† | +2.9† |
+| Ensemble vs oldest-first, rolling origins (%) | +10.8* | +10.2* | +10.5* | +5.4* | +25.3* | +15.7* | +14.8* | +8.4* |
+| Pooled over both lines, rolling origins (%) | +17.1* | +11.7* | +11.7* | +5.8* |  |  |  |  |
+
+Note: * p_Holm < 0.05 (one-sided, weekly block bootstrap). † fewer than 6 test weeks; inference relies on rolling origins. Pooled row: inverse-variance meta-analysis, listed under the first line.
