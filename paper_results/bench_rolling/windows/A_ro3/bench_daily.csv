@@ -1,0 +1,1093 @@
+policy,budget,day,saved_h
+Age (oldest first),6,0,6.845139
+Age (oldest first),6,1,6.555972
+Age (oldest first),6,2,32.752222
+Age (oldest first),6,3,173.45375
+Age (oldest first),6,4,11.367361
+Age (oldest first),6,5,185.9275
+Age (oldest first),6,6,97.508889
+Age (oldest first),6,7,255.464444
+Age (oldest first),6,8,170.035417
+Age (oldest first),6,9,39.140278
+Age (oldest first),6,10,147.090694
+Age (oldest first),6,11,136.955972
+Age (oldest first),6,12,38.26625
+Static p90 rule,6,0,6.845139
+Static p90 rule,6,1,6.555972
+Static p90 rule,6,2,34.119861
+Static p90 rule,6,3,23.91125
+Static p90 rule,6,4,10.909861
+Static p90 rule,6,5,274.9275
+Static p90 rule,6,6,168.462917
+Static p90 rule,6,7,177.157639
+Static p90 rule,6,8,169.858611
+Static p90 rule,6,9,83.438194
+Static p90 rule,6,10,70.604028
+Static p90 rule,6,11,218.115
+Static p90 rule,6,12,0.0
+Kaplan–Meier (D×R),6,0,9.782361
+Kaplan–Meier (D×R),6,1,18.690556
+Kaplan–Meier (D×R),6,2,110.320278
+Kaplan–Meier (D×R),6,3,113.116389
+Kaplan–Meier (D×R),6,4,300.902917
+Kaplan–Meier (D×R),6,5,24.234444
+Kaplan–Meier (D×R),6,6,107.508889
+Kaplan–Meier (D×R),6,7,169.640694
+Kaplan–Meier (D×R),6,8,177.869583
+Kaplan–Meier (D×R),6,9,25.331667
+Kaplan–Meier (D×R),6,10,175.320556
+Kaplan–Meier (D×R),6,11,108.938472
+Kaplan–Meier (D×R),6,12,38.929028
+LightGBM (log T),6,0,33.636806
+LightGBM (log T),6,1,12.9725
+LightGBM (log T),6,2,12.731806
+LightGBM (log T),6,3,25.8975
+LightGBM (log T),6,4,20.784167
+LightGBM (log T),6,5,393.480417
+LightGBM (log T),6,6,108.074583
+LightGBM (log T),6,7,97.139028
+LightGBM (log T),6,8,98.168889
+LightGBM (log T),6,9,207.062917
+LightGBM (log T),6,10,138.313194
+LightGBM (log T),6,11,136.578194
+LightGBM (log T),6,12,56.201667
+Landmark GBM,6,0,9.493333
+Landmark GBM,6,1,25.749306
+Landmark GBM,6,2,45.213056
+Landmark GBM,6,3,200.893194
+Landmark GBM,6,4,253.88875
+Landmark GBM,6,5,60.829167
+Landmark GBM,6,6,180.464861
+Landmark GBM,6,7,253.665417
+Landmark GBM,6,8,28.259444
+Landmark GBM,6,9,9.808611
+Landmark GBM,6,10,183.022639
+Landmark GBM,6,11,102.965278
+Landmark GBM,6,12,54.201667
+Ensemble (paper),6,0,14.283889
+Ensemble (paper),6,1,10.493611
+Ensemble (paper),6,2,14.865
+Ensemble (paper),6,3,52.534861
+Ensemble (paper),6,4,339.418889
+Ensemble (paper),6,5,97.344583
+Ensemble (paper),6,6,92.146389
+Ensemble (paper),6,7,169.394583
+Ensemble (paper),6,8,184.039306
+Ensemble (paper),6,9,32.774861
+Ensemble (paper),6,10,178.098056
+Ensemble (paper),6,11,107.935417
+Ensemble (paper),6,12,54.201667
+Oracle,6,0,69.488611
+Oracle,6,1,68.533194
+Oracle,6,2,207.468889
+Oracle,6,3,120.495833
+Oracle,6,4,293.734444
+Oracle,6,5,11.934861
+Oracle,6,6,182.336528
+Oracle,6,7,262.706389
+Oracle,6,8,58.670417
+Oracle,6,9,147.018056
+Oracle,6,10,124.521389
+Oracle,6,11,114.670417
+Oracle,6,12,66.339167
+LightGBM landmark (paper features),6,0,13.323194
+LightGBM landmark (paper features),6,1,39.759722
+LightGBM landmark (paper features),6,2,18.628889
+LightGBM landmark (paper features),6,3,201.322361
+LightGBM landmark (paper features),6,4,258.962639
+LightGBM landmark (paper features),6,5,61.720833
+LightGBM landmark (paper features),6,6,182.181806
+LightGBM landmark (paper features),6,7,171.399444
+LightGBM landmark (paper features),6,8,107.259444
+LightGBM landmark (paper features),6,9,10.861528
+LightGBM landmark (paper features),6,10,184.950417
+LightGBM landmark (paper features),6,11,107.935417
+LightGBM landmark (paper features),6,12,54.201667
+LightGBM landmark (ext. features),6,0,16.339167
+LightGBM landmark (ext. features),6,1,38.535694
+LightGBM landmark (ext. features),6,2,117.753611
+LightGBM landmark (ext. features),6,3,108.303194
+LightGBM landmark (ext. features),6,4,296.2625
+LightGBM landmark (ext. features),6,5,23.401389
+LightGBM landmark (ext. features),6,6,180.027639
+LightGBM landmark (ext. features),6,7,252.867083
+LightGBM landmark (ext. features),6,8,28.259444
+LightGBM landmark (ext. features),6,9,14.066806
+LightGBM landmark (ext. features),6,10,174.616944
+LightGBM landmark (ext. features),6,11,106.567778
+LightGBM landmark (ext. features),6,12,62.545278
+LightGBM gain regression (ext.),6,0,10.311528
+LightGBM gain regression (ext.),6,1,23.634861
+LightGBM gain regression (ext.),6,2,117.75125
+LightGBM gain regression (ext.),6,3,120.272222
+LightGBM gain regression (ext.),6,4,294.2625
+LightGBM gain regression (ext.),6,5,24.706389
+LightGBM gain regression (ext.),6,6,178.636944
+LightGBM gain regression (ext.),6,7,253.665417
+LightGBM gain regression (ext.),6,8,28.259444
+LightGBM gain regression (ext.),6,9,11.844444
+LightGBM gain regression (ext.),6,10,174.49625
+LightGBM gain regression (ext.),6,11,109.537917
+LightGBM gain regression (ext.),6,12,62.545278
+LightGBM LambdaRank (ext.),6,0,17.801111
+LightGBM LambdaRank (ext.),6,1,41.980417
+LightGBM LambdaRank (ext.),6,2,101.101806
+LightGBM LambdaRank (ext.),6,3,153.514306
+LightGBM LambdaRank (ext.),6,4,260.067917
+LightGBM LambdaRank (ext.),6,5,61.410417
+LightGBM LambdaRank (ext.),6,6,176.048056
+LightGBM LambdaRank (ext.),6,7,258.332639
+LightGBM LambdaRank (ext.),6,8,37.9125
+LightGBM LambdaRank (ext.),6,9,15.568194
+LightGBM LambdaRank (ext.),6,10,184.950417
+LightGBM LambdaRank (ext.),6,11,85.671806
+LightGBM LambdaRank (ext.),6,12,71.117361
+MLP survival (paper features),6,0,13.80875
+MLP survival (paper features),6,1,23.489306
+MLP survival (paper features),6,2,191.637917
+MLP survival (paper features),6,3,45.768611
+MLP survival (paper features),6,4,257.99875
+MLP survival (paper features),6,5,58.317222
+MLP survival (paper features),6,6,179.8075
+MLP survival (paper features),6,7,252.867083
+MLP survival (paper features),6,8,26.552222
+MLP survival (paper features),6,9,11.740139
+MLP survival (paper features),6,10,184.950417
+MLP survival (paper features),6,11,87.573611
+MLP survival (paper features),6,12,79.460972
+MLP survival (paper features) [mean score],6,0,13.80875
+MLP survival (paper features) [mean score],6,1,23.489306
+MLP survival (paper features) [mean score],6,2,191.637917
+MLP survival (paper features) [mean score],6,3,45.768611
+MLP survival (paper features) [mean score],6,4,257.99875
+MLP survival (paper features) [mean score],6,5,58.317222
+MLP survival (paper features) [mean score],6,6,179.8075
+MLP survival (paper features) [mean score],6,7,252.867083
+MLP survival (paper features) [mean score],6,8,26.552222
+MLP survival (paper features) [mean score],6,9,11.740139
+MLP survival (paper features) [mean score],6,10,184.950417
+MLP survival (paper features) [mean score],6,11,87.573611
+MLP survival (paper features) [mean score],6,12,79.460972
+MLP survival (ext.),6,0,15.082917
+MLP survival (ext.),6,1,27.749306
+MLP survival (ext.),6,2,107.608056
+MLP survival (ext.),6,3,139.217361
+MLP survival (ext.),6,4,257.99875
+MLP survival (ext.),6,5,58.317222
+MLP survival (ext.),6,6,176.024722
+MLP survival (ext.),6,7,253.273472
+MLP survival (ext.),6,8,35.965972
+MLP survival (ext.),6,9,15.729861
+MLP survival (ext.),6,10,184.950417
+MLP survival (ext.),6,11,109.557639
+MLP survival (ext.),6,12,62.545278
+MLP survival (ext.) [mean score],6,0,15.082917
+MLP survival (ext.) [mean score],6,1,27.749306
+MLP survival (ext.) [mean score],6,2,107.608056
+MLP survival (ext.) [mean score],6,3,139.217361
+MLP survival (ext.) [mean score],6,4,257.99875
+MLP survival (ext.) [mean score],6,5,58.317222
+MLP survival (ext.) [mean score],6,6,176.024722
+MLP survival (ext.) [mean score],6,7,253.273472
+MLP survival (ext.) [mean score],6,8,35.965972
+MLP survival (ext.) [mean score],6,9,15.729861
+MLP survival (ext.) [mean score],6,10,184.950417
+MLP survival (ext.) [mean score],6,11,109.557639
+MLP survival (ext.) [mean score],6,12,62.545278
+FT-Transformer survival (ext.),6,0,26.158333
+FT-Transformer survival (ext.),6,1,45.257222
+FT-Transformer survival (ext.),6,2,111.569861
+FT-Transformer survival (ext.),6,3,130.324722
+FT-Transformer survival (ext.),6,4,318.9275
+FT-Transformer survival (ext.),6,5,1.448611
+FT-Transformer survival (ext.),6,6,177.561389
+FT-Transformer survival (ext.),6,7,252.983333
+FT-Transformer survival (ext.),6,8,49.512361
+FT-Transformer survival (ext.),6,9,12.601806
+FT-Transformer survival (ext.),6,10,179.151528
+FT-Transformer survival (ext.),6,11,110.777917
+FT-Transformer survival (ext.),6,12,62.545278
+FT-Transformer survival (ext.) [mean score],6,0,26.158333
+FT-Transformer survival (ext.) [mean score],6,1,45.257222
+FT-Transformer survival (ext.) [mean score],6,2,111.569861
+FT-Transformer survival (ext.) [mean score],6,3,130.324722
+FT-Transformer survival (ext.) [mean score],6,4,318.9275
+FT-Transformer survival (ext.) [mean score],6,5,1.448611
+FT-Transformer survival (ext.) [mean score],6,6,177.561389
+FT-Transformer survival (ext.) [mean score],6,7,252.983333
+FT-Transformer survival (ext.) [mean score],6,8,49.512361
+FT-Transformer survival (ext.) [mean score],6,9,12.601806
+FT-Transformer survival (ext.) [mean score],6,10,179.151528
+FT-Transformer survival (ext.) [mean score],6,11,110.777917
+FT-Transformer survival (ext.) [mean score],6,12,62.545278
+LotSeq survival (ext. + history),6,0,11.493333
+LotSeq survival (ext. + history),6,1,33.14875
+LotSeq survival (ext. + history),6,2,110.54
+LotSeq survival (ext. + history),6,3,163.161667
+LotSeq survival (ext. + history),6,4,291.674306
+LotSeq survival (ext. + history),6,5,1.278472
+LotSeq survival (ext. + history),6,6,176.024722
+LotSeq survival (ext. + history),6,7,253.273472
+LotSeq survival (ext. + history),6,8,26.282639
+LotSeq survival (ext. + history),6,9,16.267917
+LotSeq survival (ext. + history),6,10,184.950417
+LotSeq survival (ext. + history),6,11,110.239167
+LotSeq survival (ext. + history),6,12,62.545278
+LotSeq survival (ext. + history) [mean score],6,0,11.493333
+LotSeq survival (ext. + history) [mean score],6,1,33.14875
+LotSeq survival (ext. + history) [mean score],6,2,110.54
+LotSeq survival (ext. + history) [mean score],6,3,163.161667
+LotSeq survival (ext. + history) [mean score],6,4,291.674306
+LotSeq survival (ext. + history) [mean score],6,5,1.278472
+LotSeq survival (ext. + history) [mean score],6,6,176.024722
+LotSeq survival (ext. + history) [mean score],6,7,253.273472
+LotSeq survival (ext. + history) [mean score],6,8,26.282639
+LotSeq survival (ext. + history) [mean score],6,9,16.267917
+LotSeq survival (ext. + history) [mean score],6,10,184.950417
+LotSeq survival (ext. + history) [mean score],6,11,110.239167
+LotSeq survival (ext. + history) [mean score],6,12,62.545278
+LotSeq decision-focused ranker,6,0,45.250417
+LotSeq decision-focused ranker,6,1,45.319028
+LotSeq decision-focused ranker,6,2,120.683194
+LotSeq decision-focused ranker,6,3,159.538472
+LotSeq decision-focused ranker,6,4,292.953611
+LotSeq decision-focused ranker,6,5,23.401389
+LotSeq decision-focused ranker,6,6,178.487361
+LotSeq decision-focused ranker,6,7,253.276528
+LotSeq decision-focused ranker,6,8,36.895833
+LotSeq decision-focused ranker,6,9,29.659167
+LotSeq decision-focused ranker,6,10,111.7475
+LotSeq decision-focused ranker,6,11,158.649167
+LotSeq decision-focused ranker,6,12,62.545278
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,0,11.840556
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,1,32.354028
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,2,117.753611
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,3,160.53875
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,4,287.466667
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,5,23.401389
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,6,180.022083
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,7,252.870139
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,8,25.014028
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,9,35.339167
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,10,184.950417
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,11,106.5875
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,12,62.545278
+Age (oldest first),12,0,13.910278
+Age (oldest first),12,1,9.111806
+Age (oldest first),12,2,40.268056
+Age (oldest first),12,3,204.689444
+Age (oldest first),12,4,153.709028
+Age (oldest first),12,5,194.445417
+Age (oldest first),12,6,199.393333
+Age (oldest first),12,7,102.202778
+Age (oldest first),12,8,189.4325
+Age (oldest first),12,9,55.744306
+Age (oldest first),12,10,196.761111
+Age (oldest first),12,11,110.759028
+Age (oldest first),12,12,62.068056
+Static p90 rule,12,0,11.411667
+Static p90 rule,12,1,9.108194
+Static p90 rule,12,2,40.385417
+Static p90 rule,12,3,43.628889
+Static p90 rule,12,4,262.047222
+Static p90 rule,12,5,242.482639
+Static p90 rule,12,6,4.974861
+Static p90 rule,12,7,262.754306
+Static p90 rule,12,8,111.899167
+Static p90 rule,12,9,148.789444
+Static p90 rule,12,10,173.906806
+Static p90 rule,12,11,105.915694
+Static p90 rule,12,12,0.0
+Kaplan–Meier (D×R),12,0,18.218611
+Kaplan–Meier (D×R),12,1,34.097222
+Kaplan–Meier (D×R),12,2,207.140139
+Kaplan–Meier (D×R),12,3,58.595556
+Kaplan–Meier (D×R),12,4,319.840694
+Kaplan–Meier (D×R),12,5,29.2775
+Kaplan–Meier (D×R),12,6,197.758611
+Kaplan–Meier (D×R),12,7,176.806111
+Kaplan–Meier (D×R),12,8,124.085417
+Kaplan–Meier (D×R),12,9,66.110833
+Kaplan–Meier (D×R),12,10,202.144722
+Kaplan–Meier (D×R),12,11,111.964722
+Kaplan–Meier (D×R),12,12,63.86875
+LightGBM (log T),12,0,59.658889
+LightGBM (log T),12,1,23.3525
+LightGBM (log T),12,2,32.573889
+LightGBM (log T),12,3,77.756806
+LightGBM (log T),12,4,286.021944
+LightGBM (log T),12,5,196.925556
+LightGBM (log T),12,6,179.19375
+LightGBM (log T),12,7,119.738611
+LightGBM (log T),12,8,235.168194
+LightGBM (log T),12,9,96.523889
+LightGBM (log T),12,10,188.87375
+LightGBM (log T),12,11,116.329167
+LightGBM (log T),12,12,61.646944
+Landmark GBM,12,0,21.253333
+Landmark GBM,12,1,71.509167
+Landmark GBM,12,2,207.044306
+Landmark GBM,12,3,88.122222
+Landmark GBM,12,4,335.301667
+Landmark GBM,12,5,9.070694
+Landmark GBM,12,6,193.876528
+Landmark GBM,12,7,259.867639
+Landmark GBM,12,8,54.914444
+Landmark GBM,12,9,97.102361
+Landmark GBM,12,10,151.249583
+Landmark GBM,12,11,117.196389
+Landmark GBM,12,12,66.392639
+Ensemble (paper),12,0,40.261389
+Ensemble (paper),12,1,20.658056
+Ensemble (paper),12,2,36.10875
+Ensemble (paper),12,3,254.94375
+Ensemble (paper),12,4,311.543611
+Ensemble (paper),12,5,30.605556
+Ensemble (paper),12,6,186.531389
+Ensemble (paper),12,7,127.755972
+Ensemble (paper),12,8,220.169306
+Ensemble (paper),12,9,83.996806
+Ensemble (paper),12,10,192.124028
+Ensemble (paper),12,11,118.416667
+Ensemble (paper),12,12,69.729861
+Oracle,12,0,131.935556
+Oracle,12,1,112.596389
+Oracle,12,2,237.209167
+Oracle,12,3,218.650278
+Oracle,12,4,309.194306
+Oracle,12,5,16.943889
+Oracle,12,6,205.949583
+Oracle,12,7,305.006944
+Oracle,12,8,87.804583
+Oracle,12,9,263.401806
+Oracle,12,10,63.217083
+Oracle,12,11,120.462917
+Oracle,12,12,73.109444
+LightGBM landmark (paper features),12,0,34.369861
+LightGBM landmark (paper features),12,1,72.847639
+LightGBM landmark (paper features),12,2,210.032778
+LightGBM landmark (paper features),12,3,103.292083
+LightGBM landmark (paper features),12,4,341.968611
+LightGBM landmark (paper features),12,5,10.467639
+LightGBM landmark (paper features),12,6,190.763056
+LightGBM landmark (paper features),12,7,267.834444
+LightGBM landmark (paper features),12,8,54.634028
+LightGBM landmark (paper features),12,9,110.315833
+LightGBM landmark (paper features),12,10,148.980833
+LightGBM landmark (paper features),12,11,114.276111
+LightGBM landmark (paper features),12,12,64.370833
+LightGBM landmark (ext. features),12,0,35.101806
+LightGBM landmark (ext. features),12,1,41.451111
+LightGBM landmark (ext. features),12,2,217.894028
+LightGBM landmark (ext. features),12,3,103.398333
+LightGBM landmark (ext. features),12,4,346.410139
+LightGBM landmark (ext. features),12,5,13.179167
+LightGBM landmark (ext. features),12,6,196.271111
+LightGBM landmark (ext. features),12,7,276.573889
+LightGBM landmark (ext. features),12,8,51.033472
+LightGBM landmark (ext. features),12,9,60.949444
+LightGBM landmark (ext. features),12,10,205.618194
+LightGBM landmark (ext. features),12,11,118.416667
+LightGBM landmark (ext. features),12,12,69.729861
+LightGBM gain regression (ext.),12,0,30.142639
+LightGBM gain regression (ext.),12,1,51.817222
+LightGBM gain regression (ext.),12,2,219.547639
+LightGBM gain regression (ext.),12,3,103.028472
+LightGBM gain regression (ext.),12,4,347.941389
+LightGBM gain regression (ext.),12,5,8.657778
+LightGBM gain regression (ext.),12,6,194.11875
+LightGBM gain regression (ext.),12,7,268.050139
+LightGBM gain regression (ext.),12,8,67.22875
+LightGBM gain regression (ext.),12,9,29.303194
+LightGBM gain regression (ext.),12,10,209.077639
+LightGBM gain regression (ext.),12,11,116.864722
+LightGBM gain regression (ext.),12,12,66.392639
+LightGBM LambdaRank (ext.),12,0,39.922222
+LightGBM LambdaRank (ext.),12,1,75.833889
+LightGBM LambdaRank (ext.),12,2,212.035833
+LightGBM LambdaRank (ext.),12,3,160.7425
+LightGBM LambdaRank (ext.),12,4,329.528611
+LightGBM LambdaRank (ext.),12,5,5.846528
+LightGBM LambdaRank (ext.),12,6,194.519861
+LightGBM LambdaRank (ext.),12,7,282.188333
+LightGBM LambdaRank (ext.),12,8,61.652361
+LightGBM LambdaRank (ext.),12,9,63.181806
+LightGBM LambdaRank (ext.),12,10,194.171528
+LightGBM LambdaRank (ext.),12,11,111.715417
+LightGBM LambdaRank (ext.),12,12,66.370833
+MLP survival (paper features),12,0,28.827083
+MLP survival (paper features),12,1,62.7625
+MLP survival (paper features),12,2,224.760139
+MLP survival (paper features),12,3,63.131806
+MLP survival (paper features),12,4,347.746389
+MLP survival (paper features),12,5,5.291944
+MLP survival (paper features),12,6,197.97375
+MLP survival (paper features),12,7,287.7925
+MLP survival (paper features),12,8,55.665972
+MLP survival (paper features),12,9,140.198472
+MLP survival (paper features),12,10,140.318472
+MLP survival (paper features),12,11,117.359028
+MLP survival (paper features),12,12,67.708056
+MLP survival (paper features) [mean score],12,0,28.827083
+MLP survival (paper features) [mean score],12,1,62.7625
+MLP survival (paper features) [mean score],12,2,224.760139
+MLP survival (paper features) [mean score],12,3,63.131806
+MLP survival (paper features) [mean score],12,4,347.746389
+MLP survival (paper features) [mean score],12,5,5.291944
+MLP survival (paper features) [mean score],12,6,197.97375
+MLP survival (paper features) [mean score],12,7,287.7925
+MLP survival (paper features) [mean score],12,8,55.665972
+MLP survival (paper features) [mean score],12,9,140.198472
+MLP survival (paper features) [mean score],12,10,140.318472
+MLP survival (paper features) [mean score],12,11,117.359028
+MLP survival (paper features) [mean score],12,12,67.708056
+MLP survival (ext.),12,0,58.446111
+MLP survival (ext.),12,1,82.53875
+MLP survival (ext.),12,2,211.666667
+MLP survival (ext.),12,3,175.764306
+MLP survival (ext.),12,4,314.824028
+MLP survival (ext.),12,5,5.12
+MLP survival (ext.),12,6,197.250972
+MLP survival (ext.),12,7,280.199444
+MLP survival (ext.),12,8,62.027778
+MLP survival (ext.),12,9,130.489444
+MLP survival (ext.),12,10,143.19375
+MLP survival (ext.),12,11,118.416667
+MLP survival (ext.),12,12,69.729861
+MLP survival (ext.) [mean score],12,0,58.446111
+MLP survival (ext.) [mean score],12,1,82.53875
+MLP survival (ext.) [mean score],12,2,211.666667
+MLP survival (ext.) [mean score],12,3,175.764306
+MLP survival (ext.) [mean score],12,4,314.824028
+MLP survival (ext.) [mean score],12,5,5.12
+MLP survival (ext.) [mean score],12,6,197.250972
+MLP survival (ext.) [mean score],12,7,280.199444
+MLP survival (ext.) [mean score],12,8,62.027778
+MLP survival (ext.) [mean score],12,9,130.489444
+MLP survival (ext.) [mean score],12,10,143.19375
+MLP survival (ext.) [mean score],12,11,118.416667
+MLP survival (ext.) [mean score],12,12,69.729861
+FT-Transformer survival (ext.),12,0,91.312639
+FT-Transformer survival (ext.),12,1,84.506806
+FT-Transformer survival (ext.),12,2,231.052639
+FT-Transformer survival (ext.),12,3,113.147778
+FT-Transformer survival (ext.),12,4,348.130556
+FT-Transformer survival (ext.),12,5,7.075972
+FT-Transformer survival (ext.),12,6,197.97375
+FT-Transformer survival (ext.),12,7,285.706389
+FT-Transformer survival (ext.),12,8,64.299028
+FT-Transformer survival (ext.),12,9,60.736528
+FT-Transformer survival (ext.),12,10,207.340972
+FT-Transformer survival (ext.),12,11,118.416667
+FT-Transformer survival (ext.),12,12,67.857917
+FT-Transformer survival (ext.) [mean score],12,0,91.312639
+FT-Transformer survival (ext.) [mean score],12,1,84.506806
+FT-Transformer survival (ext.) [mean score],12,2,231.052639
+FT-Transformer survival (ext.) [mean score],12,3,113.147778
+FT-Transformer survival (ext.) [mean score],12,4,348.130556
+FT-Transformer survival (ext.) [mean score],12,5,7.075972
+FT-Transformer survival (ext.) [mean score],12,6,197.97375
+FT-Transformer survival (ext.) [mean score],12,7,285.706389
+FT-Transformer survival (ext.) [mean score],12,8,64.849861
+FT-Transformer survival (ext.) [mean score],12,9,60.736528
+FT-Transformer survival (ext.) [mean score],12,10,207.340972
+FT-Transformer survival (ext.) [mean score],12,11,118.416667
+FT-Transformer survival (ext.) [mean score],12,12,67.857917
+LotSeq survival (ext. + history),12,0,70.365
+LotSeq survival (ext. + history),12,1,77.205833
+LotSeq survival (ext. + history),12,2,219.188333
+LotSeq survival (ext. + history),12,3,160.794167
+LotSeq survival (ext. + history),12,4,326.625278
+LotSeq survival (ext. + history),12,5,5.218056
+LotSeq survival (ext. + history),12,6,196.656667
+LotSeq survival (ext. + history),12,7,281.396944
+LotSeq survival (ext. + history),12,8,59.827639
+LotSeq survival (ext. + history),12,9,133.438194
+LotSeq survival (ext. + history),12,10,136.332917
+LotSeq survival (ext. + history),12,11,118.416667
+LotSeq survival (ext. + history),12,12,69.729861
+LotSeq survival (ext. + history) [mean score],12,0,70.365
+LotSeq survival (ext. + history) [mean score],12,1,77.205833
+LotSeq survival (ext. + history) [mean score],12,2,219.188333
+LotSeq survival (ext. + history) [mean score],12,3,160.794167
+LotSeq survival (ext. + history) [mean score],12,4,326.625278
+LotSeq survival (ext. + history) [mean score],12,5,5.218056
+LotSeq survival (ext. + history) [mean score],12,6,196.656667
+LotSeq survival (ext. + history) [mean score],12,7,281.396944
+LotSeq survival (ext. + history) [mean score],12,8,59.827639
+LotSeq survival (ext. + history) [mean score],12,9,133.438194
+LotSeq survival (ext. + history) [mean score],12,10,136.332917
+LotSeq survival (ext. + history) [mean score],12,11,118.416667
+LotSeq survival (ext. + history) [mean score],12,12,69.729861
+LotSeq decision-focused ranker,12,0,99.407083
+LotSeq decision-focused ranker,12,1,104.930972
+LotSeq decision-focused ranker,12,2,220.501667
+LotSeq decision-focused ranker,12,3,138.288194
+LotSeq decision-focused ranker,12,4,348.845972
+LotSeq decision-focused ranker,12,5,12.153333
+LotSeq decision-focused ranker,12,6,197.882222
+LotSeq decision-focused ranker,12,7,292.966111
+LotSeq decision-focused ranker,12,8,73.79625
+LotSeq decision-focused ranker,12,9,81.929861
+LotSeq decision-focused ranker,12,10,200.1625
+LotSeq decision-focused ranker,12,11,118.787778
+LotSeq decision-focused ranker,12,12,70.513889
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,0,49.778194
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,1,71.405278
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,2,232.544583
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,3,150.426528
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,4,347.820139
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,5,13.179167
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,6,201.883472
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,7,287.61875
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,8,68.069444
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,9,63.6125
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,10,212.794167
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,11,118.416667
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,12,71.195139
+Age (oldest first),24,0,60.789583
+Age (oldest first),24,1,122.654028
+Age (oldest first),24,2,221.844167
+Age (oldest first),24,3,179.471806
+Age (oldest first),24,4,375.640417
+Age (oldest first),24,5,12.658611
+Age (oldest first),24,6,222.359306
+Age (oldest first),24,7,318.004583
+Age (oldest first),24,8,111.337083
+Age (oldest first),24,9,133.889028
+Age (oldest first),24,10,193.539306
+Age (oldest first),24,11,118.75375
+Age (oldest first),24,12,64.546528
+Static p90 rule,24,0,49.93625
+Static p90 rule,24,1,115.304722
+Static p90 rule,24,2,27.8325
+Static p90 rule,24,3,267.440278
+Static p90 rule,24,4,216.909861
+Static p90 rule,24,5,166.0
+Static p90 rule,24,6,4.974861
+Static p90 rule,24,7,270.812917
+Static p90 rule,24,8,225.326389
+Static p90 rule,24,9,82.798611
+Static p90 rule,24,10,172.526806
+Static p90 rule,24,11,105.915694
+Static p90 rule,24,12,0.0
+Kaplan–Meier (D×R),24,0,40.293611
+Kaplan–Meier (D×R),24,1,75.804861
+Kaplan–Meier (D×R),24,2,231.396667
+Kaplan–Meier (D×R),24,3,175.248611
+Kaplan–Meier (D×R),24,4,384.862083
+Kaplan–Meier (D×R),24,5,12.412083
+Kaplan–Meier (D×R),24,6,222.359306
+Kaplan–Meier (D×R),24,7,229.004583
+Kaplan–Meier (D×R),24,8,186.804861
+Kaplan–Meier (D×R),24,9,280.833056
+Kaplan–Meier (D×R),24,10,59.580833
+Kaplan–Meier (D×R),24,11,117.793333
+Kaplan–Meier (D×R),24,12,64.546528
+LightGBM (log T),24,0,128.886667
+LightGBM (log T),24,1,160.271528
+LightGBM (log T),24,2,78.735694
+LightGBM (log T),24,3,351.439583
+LightGBM (log T),24,4,395.031944
+LightGBM (log T),24,5,20.852222
+LightGBM (log T),24,6,220.869722
+LightGBM (log T),24,7,189.899167
+LightGBM (log T),24,8,254.548611
+LightGBM (log T),24,9,127.453889
+LightGBM (log T),24,10,209.145
+LightGBM (log T),24,11,118.616944
+LightGBM (log T),24,12,70.485139
+Landmark GBM,24,0,93.464028
+Landmark GBM,24,1,114.805556
+Landmark GBM,24,2,236.555278
+Landmark GBM,24,3,229.579444
+Landmark GBM,24,4,361.527639
+Landmark GBM,24,5,19.965694
+Landmark GBM,24,6,228.036806
+Landmark GBM,24,7,352.449444
+Landmark GBM,24,8,86.686528
+Landmark GBM,24,9,255.287222
+Landmark GBM,24,10,72.985972
+Landmark GBM,24,11,125.810556
+Landmark GBM,24,12,72.407083
+Ensemble (paper),24,0,96.580972
+Ensemble (paper),24,1,135.0725
+Ensemble (paper),24,2,243.332639
+Ensemble (paper),24,3,195.679583
+Ensemble (paper),24,4,392.985139
+Ensemble (paper),24,5,19.958611
+Ensemble (paper),24,6,223.716111
+Ensemble (paper),24,7,272.481944
+Ensemble (paper),24,8,172.247639
+Ensemble (paper),24,9,261.833194
+Ensemble (paper),24,10,74.560694
+Ensemble (paper),24,11,119.810556
+Ensemble (paper),24,12,73.60125
+Oracle,24,0,230.451389
+Oracle,24,1,133.545
+Oracle,24,2,262.619861
+Oracle,24,3,295.189861
+Oracle,24,4,338.191806
+Oracle,24,5,23.317917
+Oracle,24,6,238.483889
+Oracle,24,7,351.7325
+Oracle,24,8,94.502778
+Oracle,24,9,298.374444
+Oracle,24,10,65.707361
+Oracle,24,11,125.749583
+Oracle,24,12,76.979722
+LightGBM landmark (paper features),24,0,98.126111
+LightGBM landmark (paper features),24,1,127.266806
+LightGBM landmark (paper features),24,2,228.445556
+LightGBM landmark (paper features),24,3,161.124444
+LightGBM landmark (paper features),24,4,400.519861
+LightGBM landmark (paper features),24,5,19.0675
+LightGBM landmark (paper features),24,6,228.326389
+LightGBM landmark (paper features),24,7,321.914306
+LightGBM landmark (paper features),24,8,110.055278
+LightGBM landmark (paper features),24,9,277.622083
+LightGBM landmark (paper features),24,10,62.490139
+LightGBM landmark (paper features),24,11,122.528194
+LightGBM landmark (paper features),24,12,73.064722
+LightGBM landmark (ext. features),24,0,102.949306
+LightGBM landmark (ext. features),24,1,135.139028
+LightGBM landmark (ext. features),24,2,251.890694
+LightGBM landmark (ext. features),24,3,235.558056
+LightGBM landmark (ext. features),24,4,359.483333
+LightGBM landmark (ext. features),24,5,15.369167
+LightGBM landmark (ext. features),24,6,230.394722
+LightGBM landmark (ext. features),24,7,335.550278
+LightGBM landmark (ext. features),24,8,91.417222
+LightGBM landmark (ext. features),24,9,179.170556
+LightGBM landmark (ext. features),24,10,146.038194
+LightGBM landmark (ext. features),24,11,122.067361
+LightGBM landmark (ext. features),24,12,73.064722
+LightGBM gain regression (ext.),24,0,135.750972
+LightGBM gain regression (ext.),24,1,134.628611
+LightGBM gain regression (ext.),24,2,241.130278
+LightGBM gain regression (ext.),24,3,232.466389
+LightGBM gain regression (ext.),24,4,359.511389
+LightGBM gain regression (ext.),24,5,17.2025
+LightGBM gain regression (ext.),24,6,229.752222
+LightGBM gain regression (ext.),24,7,336.427361
+LightGBM gain regression (ext.),24,8,91.288194
+LightGBM gain regression (ext.),24,9,139.765972
+LightGBM gain regression (ext.),24,10,199.578056
+LightGBM gain regression (ext.),24,11,122.067361
+LightGBM gain regression (ext.),24,12,72.407083
+LightGBM LambdaRank (ext.),24,0,144.121111
+LightGBM LambdaRank (ext.),24,1,149.275556
+LightGBM LambdaRank (ext.),24,2,235.927083
+LightGBM LambdaRank (ext.),24,3,258.222361
+LightGBM LambdaRank (ext.),24,4,333.167639
+LightGBM LambdaRank (ext.),24,5,15.783333
+LightGBM LambdaRank (ext.),24,6,228.249861
+LightGBM LambdaRank (ext.),24,7,317.914167
+LightGBM LambdaRank (ext.),24,8,104.794444
+LightGBM LambdaRank (ext.),24,9,179.186806
+LightGBM LambdaRank (ext.),24,10,146.021944
+LightGBM LambdaRank (ext.),24,11,123.810556
+LightGBM LambdaRank (ext.),24,12,71.195139
+MLP survival (paper features),24,0,92.635278
+MLP survival (paper features),24,1,124.184444
+MLP survival (paper features),24,2,240.702361
+MLP survival (paper features),24,3,230.230417
+MLP survival (paper features),24,4,359.740972
+MLP survival (paper features),24,5,13.095278
+MLP survival (paper features),24,6,227.011111
+MLP survival (paper features),24,7,339.814167
+MLP survival (paper features),24,8,94.605278
+MLP survival (paper features),24,9,248.384444
+MLP survival (paper features),24,10,74.378194
+MLP survival (paper features),24,11,119.810556
+MLP survival (paper features),24,12,75.168194
+MLP survival (paper features) [mean score],24,0,92.635278
+MLP survival (paper features) [mean score],24,1,126.184444
+MLP survival (paper features) [mean score],24,2,240.702361
+MLP survival (paper features) [mean score],24,3,230.230417
+MLP survival (paper features) [mean score],24,4,359.483333
+MLP survival (paper features) [mean score],24,5,13.095278
+MLP survival (paper features) [mean score],24,6,227.011111
+MLP survival (paper features) [mean score],24,7,339.814167
+MLP survival (paper features) [mean score],24,8,94.605278
+MLP survival (paper features) [mean score],24,9,248.384444
+MLP survival (paper features) [mean score],24,10,74.378194
+MLP survival (paper features) [mean score],24,11,119.810556
+MLP survival (paper features) [mean score],24,12,75.168194
+MLP survival (ext.),24,0,124.069028
+MLP survival (ext.),24,1,138.480417
+MLP survival (ext.),24,2,245.635417
+MLP survival (ext.),24,3,267.923056
+MLP survival (ext.),24,4,324.565833
+MLP survival (ext.),24,5,14.479444
+MLP survival (ext.),24,6,223.705833
+MLP survival (ext.),24,7,343.587083
+MLP survival (ext.),24,8,90.49125
+MLP survival (ext.),24,9,210.703194
+MLP survival (ext.),24,10,132.824444
+MLP survival (ext.),24,11,121.810556
+MLP survival (ext.),24,12,75.170972
+MLP survival (ext.) [mean score],24,0,138.62125
+MLP survival (ext.) [mean score],24,1,137.928194
+MLP survival (ext.) [mean score],24,2,245.635417
+MLP survival (ext.) [mean score],24,3,267.923056
+MLP survival (ext.) [mean score],24,4,324.565833
+MLP survival (ext.) [mean score],24,5,14.479444
+MLP survival (ext.) [mean score],24,6,223.705833
+MLP survival (ext.) [mean score],24,7,343.587083
+MLP survival (ext.) [mean score],24,8,90.49125
+MLP survival (ext.) [mean score],24,9,210.703194
+MLP survival (ext.) [mean score],24,10,132.824444
+MLP survival (ext.) [mean score],24,11,121.810556
+MLP survival (ext.) [mean score],24,12,75.170972
+FT-Transformer survival (ext.),24,0,190.152778
+FT-Transformer survival (ext.),24,1,146.562361
+FT-Transformer survival (ext.),24,2,245.259306
+FT-Transformer survival (ext.),24,3,266.4725
+FT-Transformer survival (ext.),24,4,326.750417
+FT-Transformer survival (ext.),24,5,13.095278
+FT-Transformer survival (ext.),24,6,223.806389
+FT-Transformer survival (ext.),24,7,345.721667
+FT-Transformer survival (ext.),24,8,91.366806
+FT-Transformer survival (ext.),24,9,211.259167
+FT-Transformer survival (ext.),24,10,131.001667
+FT-Transformer survival (ext.),24,11,121.810556
+FT-Transformer survival (ext.),24,12,75.272083
+FT-Transformer survival (ext.) [mean score],24,0,190.152778
+FT-Transformer survival (ext.) [mean score],24,1,146.562361
+FT-Transformer survival (ext.) [mean score],24,2,245.259306
+FT-Transformer survival (ext.) [mean score],24,3,266.4725
+FT-Transformer survival (ext.) [mean score],24,4,326.750417
+FT-Transformer survival (ext.) [mean score],24,5,14.023611
+FT-Transformer survival (ext.) [mean score],24,6,224.163333
+FT-Transformer survival (ext.) [mean score],24,7,345.721667
+FT-Transformer survival (ext.) [mean score],24,8,91.366806
+FT-Transformer survival (ext.) [mean score],24,9,211.259167
+FT-Transformer survival (ext.) [mean score],24,10,131.001667
+FT-Transformer survival (ext.) [mean score],24,11,122.067361
+FT-Transformer survival (ext.) [mean score],24,12,75.272083
+LotSeq survival (ext. + history),24,0,155.594028
+LotSeq survival (ext. + history),24,1,129.872917
+LotSeq survival (ext. + history),24,2,240.86375
+LotSeq survival (ext. + history),24,3,217.991389
+LotSeq survival (ext. + history),24,4,359.866389
+LotSeq survival (ext. + history),24,5,13.095278
+LotSeq survival (ext. + history),24,6,223.052222
+LotSeq survival (ext. + history),24,7,343.587083
+LotSeq survival (ext. + history),24,8,91.018194
+LotSeq survival (ext. + history),24,9,263.306944
+LotSeq survival (ext. + history),24,10,74.660556
+LotSeq survival (ext. + history),24,11,123.478889
+LotSeq survival (ext. + history),24,12,75.170972
+LotSeq survival (ext. + history) [mean score],24,0,155.594028
+LotSeq survival (ext. + history) [mean score],24,1,131.31125
+LotSeq survival (ext. + history) [mean score],24,2,239.753194
+LotSeq survival (ext. + history) [mean score],24,3,217.991389
+LotSeq survival (ext. + history) [mean score],24,4,359.866389
+LotSeq survival (ext. + history) [mean score],24,5,14.479444
+LotSeq survival (ext. + history) [mean score],24,6,223.052222
+LotSeq survival (ext. + history) [mean score],24,7,343.587083
+LotSeq survival (ext. + history) [mean score],24,8,90.49125
+LotSeq survival (ext. + history) [mean score],24,9,263.306944
+LotSeq survival (ext. + history) [mean score],24,10,75.961806
+LotSeq survival (ext. + history) [mean score],24,11,123.478889
+LotSeq survival (ext. + history) [mean score],24,12,75.170972
+LotSeq decision-focused ranker,24,0,181.942917
+LotSeq decision-focused ranker,24,1,139.761528
+LotSeq decision-focused ranker,24,2,243.259306
+LotSeq decision-focused ranker,24,3,238.895417
+LotSeq decision-focused ranker,24,4,359.483333
+LotSeq decision-focused ranker,24,5,15.402639
+LotSeq decision-focused ranker,24,6,234.024028
+LotSeq decision-focused ranker,24,7,344.191528
+LotSeq decision-focused ranker,24,8,91.665
+LotSeq decision-focused ranker,24,9,144.697361
+LotSeq decision-focused ranker,24,10,199.895139
+LotSeq decision-focused ranker,24,11,123.735694
+LotSeq decision-focused ranker,24,12,75.172778
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,0,131.266111
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,1,142.570694
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,2,252.817361
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,3,235.558056
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,4,359.483333
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,5,16.303333
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,6,228.750139
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,7,343.587083
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,8,90.679444
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,9,144.697361
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,10,199.265556
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,11,124.067361
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,12,75.272083
+Age (oldest first),48,0,253.279028
+Age (oldest first),48,1,137.347083
+Age (oldest first),48,2,241.591944
+Age (oldest first),48,3,223.562361
+Age (oldest first),48,4,393.872917
+Age (oldest first),48,5,25.230139
+Age (oldest first),48,6,245.2525
+Age (oldest first),48,7,365.288472
+Age (oldest first),48,8,96.7275
+Age (oldest first),48,9,301.2575
+Age (oldest first),48,10,61.942222
+Age (oldest first),48,11,125.300972
+Age (oldest first),48,12,75.375
+Static p90 rule,48,0,198.5
+Static p90 rule,48,1,102.054306
+Static p90 rule,48,2,26.464861
+Static p90 rule,48,3,287.254444
+Static p90 rule,48,4,208.9925
+Static p90 rule,48,5,166.0
+Static p90 rule,48,6,4.974861
+Static p90 rule,48,7,271.61125
+Static p90 rule,48,8,233.326389
+Static p90 rule,48,9,82.798611
+Static p90 rule,48,10,172.526806
+Static p90 rule,48,11,105.915694
+Static p90 rule,48,12,0.0
+Kaplan–Meier (D×R),48,0,204.057778
+Kaplan–Meier (D×R),48,1,164.476667
+Kaplan–Meier (D×R),48,2,261.783472
+Kaplan–Meier (D×R),48,3,307.005417
+Kaplan–Meier (D×R),48,4,330.399861
+Kaplan–Meier (D×R),48,5,20.620556
+Kaplan–Meier (D×R),48,6,247.2525
+Kaplan–Meier (D×R),48,7,372.183194
+Kaplan–Meier (D×R),48,8,96.598472
+Kaplan–Meier (D×R),48,9,303.469167
+Kaplan–Meier (D×R),48,10,64.273889
+Kaplan–Meier (D×R),48,11,123.153056
+Kaplan–Meier (D×R),48,12,77.375
+LightGBM (log T),48,0,242.586111
+LightGBM (log T),48,1,148.269444
+LightGBM (log T),48,2,262.730833
+LightGBM (log T),48,3,237.074444
+LightGBM (log T),48,4,398.206667
+LightGBM (log T),48,5,23.650972
+LightGBM (log T),48,6,251.533472
+LightGBM (log T),48,7,382.406806
+LightGBM (log T),48,8,95.508472
+LightGBM (log T),48,9,303.813472
+LightGBM (log T),48,10,64.273889
+LightGBM (log T),48,11,122.420972
+LightGBM (log T),48,12,77.375
+Landmark GBM,48,0,259.399722
+Landmark GBM,48,1,139.898889
+Landmark GBM,48,2,268.132778
+Landmark GBM,48,3,313.591667
+Landmark GBM,48,4,340.432083
+Landmark GBM,48,5,22.68
+Landmark GBM,48,6,251.7475
+Landmark GBM,48,7,378.344722
+Landmark GBM,48,8,95.508472
+Landmark GBM,48,9,303.548056
+Landmark GBM,48,10,64.273889
+Landmark GBM,48,11,126.643889
+Landmark GBM,48,12,77.375
+Ensemble (paper),48,0,267.165556
+Ensemble (paper),48,1,139.898889
+Ensemble (paper),48,2,265.88375
+Ensemble (paper),48,3,273.78625
+Ensemble (paper),48,4,372.001667
+Ensemble (paper),48,5,23.250139
+Ensemble (paper),48,6,251.735278
+Ensemble (paper),48,7,378.406806
+Ensemble (paper),48,8,95.508472
+Ensemble (paper),48,9,304.025139
+Ensemble (paper),48,10,64.273889
+Ensemble (paper),48,11,126.080972
+Ensemble (paper),48,12,77.375
+Oracle,48,0,293.525139
+Oracle,48,1,143.616111
+Oracle,48,2,268.879306
+Oracle,48,3,332.62375
+Oracle,48,4,349.893056
+Oracle,48,5,25.863333
+Oracle,48,6,252.923194
+Oracle,48,7,379.08125
+Oracle,48,8,95.508472
+Oracle,48,9,305.430139
+Oracle,48,10,64.273889
+Oracle,48,11,128.807222
+Oracle,48,12,77.375
+LightGBM landmark (paper features),48,0,252.63625
+LightGBM landmark (paper features),48,1,143.103056
+LightGBM landmark (paper features),48,2,266.579167
+LightGBM landmark (paper features),48,3,281.439861
+LightGBM landmark (paper features),48,4,372.29375
+LightGBM landmark (paper features),48,5,24.279306
+LightGBM landmark (paper features),48,6,251.545694
+LightGBM landmark (paper features),48,7,376.410139
+LightGBM landmark (paper features),48,8,95.6375
+LightGBM landmark (paper features),48,9,303.548056
+LightGBM landmark (paper features),48,10,64.273889
+LightGBM landmark (paper features),48,11,128.616806
+LightGBM landmark (paper features),48,12,77.375
+LightGBM landmark (ext. features),48,0,268.738472
+LightGBM landmark (ext. features),48,1,139.898889
+LightGBM landmark (ext. features),48,2,268.130278
+LightGBM landmark (ext. features),48,3,313.623333
+LightGBM landmark (ext. features),48,4,341.169028
+LightGBM landmark (ext. features),48,5,23.954444
+LightGBM landmark (ext. features),48,6,249.735278
+LightGBM landmark (ext. features),48,7,376.312778
+LightGBM landmark (ext. features),48,8,95.6375
+LightGBM landmark (ext. features),48,9,305.326806
+LightGBM landmark (ext. features),48,10,64.273889
+LightGBM landmark (ext. features),48,11,128.467222
+LightGBM landmark (ext. features),48,12,77.375
+LightGBM gain regression (ext.),48,0,277.376667
+LightGBM gain regression (ext.),48,1,139.898889
+LightGBM gain regression (ext.),48,2,268.132778
+LightGBM gain regression (ext.),48,3,313.421111
+LightGBM gain regression (ext.),48,4,336.930556
+LightGBM gain regression (ext.),48,5,22.926528
+LightGBM gain regression (ext.),48,6,251.735278
+LightGBM gain regression (ext.),48,7,376.410139
+LightGBM gain regression (ext.),48,8,95.6375
+LightGBM gain regression (ext.),48,9,304.025139
+LightGBM gain regression (ext.),48,10,64.273889
+LightGBM gain regression (ext.),48,11,128.467222
+LightGBM gain regression (ext.),48,12,77.375
+LightGBM LambdaRank (ext.),48,0,281.029444
+LightGBM LambdaRank (ext.),48,1,143.266528
+LightGBM LambdaRank (ext.),48,2,266.705
+LightGBM LambdaRank (ext.),48,3,311.304028
+LightGBM LambdaRank (ext.),48,4,342.777639
+LightGBM LambdaRank (ext.),48,5,22.419722
+LightGBM LambdaRank (ext.),48,6,251.081667
+LightGBM LambdaRank (ext.),48,7,376.658194
+LightGBM LambdaRank (ext.),48,8,95.6375
+LightGBM LambdaRank (ext.),48,9,303.813472
+LightGBM LambdaRank (ext.),48,10,64.273889
+LightGBM LambdaRank (ext.),48,11,128.467222
+LightGBM LambdaRank (ext.),48,12,77.375
+MLP survival (paper features),48,0,254.091806
+MLP survival (paper features),48,1,140.248472
+MLP survival (paper features),48,2,268.132778
+MLP survival (paper features),48,3,320.734028
+MLP survival (paper features),48,4,339.169028
+MLP survival (paper features),48,5,23.062083
+MLP survival (paper features),48,6,252.709167
+MLP survival (paper features),48,7,378.689861
+MLP survival (paper features),48,8,95.508472
+MLP survival (paper features),48,9,304.025139
+MLP survival (paper features),48,10,64.273889
+MLP survival (paper features),48,11,128.467222
+MLP survival (paper features),48,12,77.375
+MLP survival (paper features) [mean score],48,0,254.091806
+MLP survival (paper features) [mean score],48,1,140.248472
+MLP survival (paper features) [mean score],48,2,268.132778
+MLP survival (paper features) [mean score],48,3,320.734028
+MLP survival (paper features) [mean score],48,4,340.767639
+MLP survival (paper features) [mean score],48,5,23.062083
+MLP survival (paper features) [mean score],48,6,252.709167
+MLP survival (paper features) [mean score],48,7,378.406806
+MLP survival (paper features) [mean score],48,8,95.508472
+MLP survival (paper features) [mean score],48,9,304.025139
+MLP survival (paper features) [mean score],48,10,64.273889
+MLP survival (paper features) [mean score],48,11,128.467222
+MLP survival (paper features) [mean score],48,12,77.375
+MLP survival (ext.),48,0,277.376667
+MLP survival (ext.),48,1,140.248472
+MLP survival (ext.),48,2,268.132778
+MLP survival (ext.),48,3,320.939444
+MLP survival (ext.),48,4,341.169028
+MLP survival (ext.),48,5,24.336528
+MLP survival (ext.),48,6,252.709167
+MLP survival (ext.),48,7,376.410139
+MLP survival (ext.),48,8,95.6375
+MLP survival (ext.),48,9,304.025139
+MLP survival (ext.),48,10,64.273889
+MLP survival (ext.),48,11,128.467222
+MLP survival (ext.),48,12,77.375
+MLP survival (ext.) [mean score],48,0,277.376667
+MLP survival (ext.) [mean score],48,1,140.248472
+MLP survival (ext.) [mean score],48,2,266.765139
+MLP survival (ext.) [mean score],48,3,320.939444
+MLP survival (ext.) [mean score],48,4,341.169028
+MLP survival (ext.) [mean score],48,5,24.336528
+MLP survival (ext.) [mean score],48,6,252.709167
+MLP survival (ext.) [mean score],48,7,376.029722
+MLP survival (ext.) [mean score],48,8,95.6375
+MLP survival (ext.) [mean score],48,9,305.326806
+MLP survival (ext.) [mean score],48,10,64.273889
+MLP survival (ext.) [mean score],48,11,128.467222
+MLP survival (ext.) [mean score],48,12,77.375
+FT-Transformer survival (ext.),48,0,282.624306
+FT-Transformer survival (ext.),48,1,140.248472
+FT-Transformer survival (ext.),48,2,268.132778
+FT-Transformer survival (ext.),48,3,320.7725
+FT-Transformer survival (ext.),48,4,340.342361
+FT-Transformer survival (ext.),48,5,24.336528
+FT-Transformer survival (ext.),48,6,251.735278
+FT-Transformer survival (ext.),48,7,378.833194
+FT-Transformer survival (ext.),48,8,95.508472
+FT-Transformer survival (ext.),48,9,305.326806
+FT-Transformer survival (ext.),48,10,64.273889
+FT-Transformer survival (ext.),48,11,128.467222
+FT-Transformer survival (ext.),48,12,77.375
+FT-Transformer survival (ext.) [mean score],48,0,282.624306
+FT-Transformer survival (ext.) [mean score],48,1,140.248472
+FT-Transformer survival (ext.) [mean score],48,2,268.132778
+FT-Transformer survival (ext.) [mean score],48,3,321.167778
+FT-Transformer survival (ext.) [mean score],48,4,340.342361
+FT-Transformer survival (ext.) [mean score],48,5,24.336528
+FT-Transformer survival (ext.) [mean score],48,6,251.735278
+FT-Transformer survival (ext.) [mean score],48,7,378.833194
+FT-Transformer survival (ext.) [mean score],48,8,95.508472
+FT-Transformer survival (ext.) [mean score],48,9,305.326806
+FT-Transformer survival (ext.) [mean score],48,10,64.273889
+FT-Transformer survival (ext.) [mean score],48,11,128.467222
+FT-Transformer survival (ext.) [mean score],48,12,77.375
+LotSeq survival (ext. + history),48,0,270.137361
+LotSeq survival (ext. + history),48,1,140.248472
+LotSeq survival (ext. + history),48,2,267.068333
+LotSeq survival (ext. + history),48,3,320.734028
+LotSeq survival (ext. + history),48,4,340.342361
+LotSeq survival (ext. + history),48,5,25.230139
+LotSeq survival (ext. + history),48,6,252.709167
+LotSeq survival (ext. + history),48,7,378.438889
+LotSeq survival (ext. + history),48,8,95.508472
+LotSeq survival (ext. + history),48,9,305.326806
+LotSeq survival (ext. + history),48,10,64.273889
+LotSeq survival (ext. + history),48,11,128.467222
+LotSeq survival (ext. + history),48,12,77.375
+LotSeq survival (ext. + history) [mean score],48,0,270.137361
+LotSeq survival (ext. + history) [mean score],48,1,140.248472
+LotSeq survival (ext. + history) [mean score],48,2,267.068333
+LotSeq survival (ext. + history) [mean score],48,3,320.939444
+LotSeq survival (ext. + history) [mean score],48,4,340.342361
+LotSeq survival (ext. + history) [mean score],48,5,25.230139
+LotSeq survival (ext. + history) [mean score],48,6,252.709167
+LotSeq survival (ext. + history) [mean score],48,7,377.670278
+LotSeq survival (ext. + history) [mean score],48,8,95.508472
+LotSeq survival (ext. + history) [mean score],48,9,305.326806
+LotSeq survival (ext. + history) [mean score],48,10,64.273889
+LotSeq survival (ext. + history) [mean score],48,11,128.467222
+LotSeq survival (ext. + history) [mean score],48,12,77.375
+LotSeq decision-focused ranker,48,0,278.093611
+LotSeq decision-focused ranker,48,1,139.898889
+LotSeq decision-focused ranker,48,2,267.068333
+LotSeq decision-focused ranker,48,3,321.636806
+LotSeq decision-focused ranker,48,4,340.155694
+LotSeq decision-focused ranker,48,5,24.336528
+LotSeq decision-focused ranker,48,6,251.533472
+LotSeq decision-focused ranker,48,7,380.295556
+LotSeq decision-focused ranker,48,8,95.508472
+LotSeq decision-focused ranker,48,9,305.326806
+LotSeq decision-focused ranker,48,10,64.273889
+LotSeq decision-focused ranker,48,11,128.467222
+LotSeq decision-focused ranker,48,12,77.375
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,0,276.657778
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,1,139.898889
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,2,267.068333
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,3,319.029167
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,4,338.095833
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,5,23.060833
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,6,251.735278
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,7,377.753472
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,8,95.508472
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,9,305.326806
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,10,64.273889
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,11,128.467222
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,12,77.375

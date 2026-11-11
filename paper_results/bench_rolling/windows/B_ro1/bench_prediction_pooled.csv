@@ -1,0 +1,15 @@
+model,C_mean,C_sd,AUC8_mean,AUC8_sd,top10_mean,IBS_mean
+Ensemble (paper),0.661219,,0.75104,,0.403675,
+FT-Transformer survival (ext.),0.658927,0.00289,0.753396,0.002682,0.38812,0.073815
+Kaplan–Meier (D×R),0.598251,,0.662482,,0.353066,
+Landmark GBM,0.644417,,0.748765,,0.408703,
+LightGBM (log T),0.630375,,0.696196,,0.378038,
+LightGBM LambdaRank (ext.),0.544302,0.013762,0.594342,0.027211,0.293169,
+LightGBM gain regression (ext.),0.642092,0.000994,0.750881,0.002504,0.397312,
+LightGBM landmark (ext. features),0.65553,0.001887,0.755796,0.002548,0.395353,
+LightGBM landmark (paper features),0.636904,0.003246,0.719838,0.007161,0.38108,
+LotSeq decision-focused ranker,0.656177,0.00495,0.756753,0.006413,0.370742,
+LotSeq survival (ext. + history),0.657116,0.002571,0.749571,0.004438,0.37417,0.07764
+MLP survival (ext.),0.658661,0.003719,0.748768,0.006603,0.379616,0.078341
+MLP survival (paper features),0.652189,0.005816,0.740418,0.007934,0.3814,0.077659
+Static p90 rule,0.396095,,0.33093,,0.026312,

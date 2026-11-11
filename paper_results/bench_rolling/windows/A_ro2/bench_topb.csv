@@ -1,0 +1,85 @@
+policy,budget,reviews,recall_top_b
+Age (oldest first),6,77,0.350649
+Static p90 rule,6,77,0.194805
+Kaplan–Meier (D×R),6,77,0.116883
+LightGBM (log T),6,77,0.324675
+Landmark GBM,6,77,0.363636
+Ensemble (paper),6,77,0.324675
+Oracle,6,77,0.857143
+LightGBM landmark (paper features),6,77,0.441558
+LightGBM landmark (ext. features),6,77,0.532468
+LightGBM gain regression (ext.),6,77,0.376623
+LightGBM LambdaRank (ext.),6,77,0.194805
+MLP survival (paper features),6,77,0.454545
+MLP survival (paper features) [mean score],6,77,0.454545
+MLP survival (ext.),6,77,0.376623
+MLP survival (ext.) [mean score],6,77,0.376623
+FT-Transformer survival (ext.),6,77,0.311688
+FT-Transformer survival (ext.) [mean score],6,77,0.311688
+LotSeq survival (ext. + history),6,77,0.337662
+LotSeq survival (ext. + history) [mean score],6,77,0.350649
+LotSeq decision-focused ranker,6,77,0.285714
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),6,77,0.324675
+Age (oldest first),12,77,0.506494
+Static p90 rule,12,77,0.253247
+Kaplan–Meier (D×R),12,77,0.409091
+LightGBM (log T),12,77,0.474026
+Landmark GBM,12,77,0.577922
+Ensemble (paper),12,77,0.525974
+Oracle,12,77,0.980519
+LightGBM landmark (paper features),12,77,0.623377
+LightGBM landmark (ext. features),12,77,0.603896
+LightGBM gain regression (ext.),12,77,0.616883
+LightGBM LambdaRank (ext.),12,77,0.344156
+MLP survival (paper features),12,77,0.564935
+MLP survival (paper features) [mean score],12,77,0.564935
+MLP survival (ext.),12,77,0.506494
+MLP survival (ext.) [mean score],12,77,0.506494
+FT-Transformer survival (ext.),12,77,0.454545
+FT-Transformer survival (ext.) [mean score],12,77,0.454545
+LotSeq survival (ext. + history),12,77,0.506494
+LotSeq survival (ext. + history) [mean score],12,77,0.506494
+LotSeq decision-focused ranker,12,77,0.441558
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),12,77,0.564935
+Age (oldest first),24,77,0.506494
+Static p90 rule,24,77,0.399351
+Kaplan–Meier (D×R),24,77,0.506494
+LightGBM (log T),24,77,0.522727
+Landmark GBM,24,77,0.564935
+Ensemble (paper),24,77,0.551948
+Oracle,24,77,0.987013
+LightGBM landmark (paper features),24,77,0.564935
+LightGBM landmark (ext. features),24,77,0.571429
+LightGBM gain regression (ext.),24,77,0.574675
+LightGBM LambdaRank (ext.),24,77,0.477273
+MLP survival (paper features),24,77,0.613636
+MLP survival (paper features) [mean score],24,77,0.61039
+MLP survival (ext.),24,77,0.581169
+MLP survival (ext.) [mean score],24,77,0.577922
+FT-Transformer survival (ext.),24,77,0.506494
+FT-Transformer survival (ext.) [mean score],24,77,0.50974
+LotSeq survival (ext. + history),24,77,0.568182
+LotSeq survival (ext. + history) [mean score],24,77,0.564935
+LotSeq decision-focused ranker,24,77,0.538961
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),24,77,0.590909
+Age (oldest first),48,77,0.725649
+Static p90 rule,48,77,0.704545
+Kaplan–Meier (D×R),48,77,0.691558
+LightGBM (log T),48,77,0.676948
+Landmark GBM,48,77,0.711039
+Ensemble (paper),48,77,0.719156
+Oracle,48,77,0.957792
+LightGBM landmark (paper features),48,77,0.727273
+LightGBM landmark (ext. features),48,77,0.706169
+LightGBM gain regression (ext.),48,77,0.714286
+LightGBM LambdaRank (ext.),48,77,0.722403
+MLP survival (paper features),48,77,0.728896
+MLP survival (paper features) [mean score],48,77,0.725649
+MLP survival (ext.),48,77,0.727273
+MLP survival (ext.) [mean score],48,77,0.725649
+FT-Transformer survival (ext.),48,77,0.714286
+FT-Transformer survival (ext.) [mean score],48,77,0.715909
+LotSeq survival (ext. + history),48,77,0.717532
+LotSeq survival (ext. + history) [mean score],48,77,0.722403
+LotSeq decision-focused ranker,48,77,0.717532
+Ensemble new (LotSeq decision-focused ranker + LightGBM ext.),48,77,0.719156
