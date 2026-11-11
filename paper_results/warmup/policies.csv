@@ -1,0 +1,401 @@
+line,kind,variant,budget,policy,h_per_calendar_day,escalations,h_per_escalation
+A,test period,main,6,Age (oldest first),61.0287,271,10.3591
+A,test period,main,6,Age <= tau,61.0287,271,10.3591
+A,test period,main,6,Static p90 rule,54.6945,235,10.7062
+A,test period,main,6,"p90, filled by oldest-first",57.6925,271,9.79282
+A,test period,main,6,Kaplan–Meier (D×R),62.5357,271,10.6149
+A,test period,main,6,Ensemble,65.7658,271,11.1632
+A,test period,main,6,Oracle,88.3861,271,15.0028
+A,test period,main,12,Age (oldest first),80.1716,542,6.80423
+A,test period,main,12,Age <= tau,80.1716,542,6.80423
+A,test period,main,12,Static p90 rule,66.4721,361,8.47012
+A,test period,main,12,"p90, filled by oldest-first",79.071,542,6.71082
+A,test period,main,12,Kaplan–Meier (D×R),79.6385,541,6.77148
+A,test period,main,12,Ensemble,88.3626,540,7.52719
+A,test period,main,12,Oracle,113.434,538,9.69882
+A,test period,main,24,Age (oldest first),111.865,1065,4.83174
+A,test period,main,24,Age <= tau,111.865,1065,4.83174
+A,test period,main,24,Static p90 rule,80.8064,446,8.33429
+A,test period,main,24,"p90, filled by oldest-first",110.661,1065,4.77974
+A,test period,main,24,Kaplan–Meier (D×R),112.415,1062,4.86922
+A,test period,main,24,Ensemble,123.226,1062,5.33748
+A,test period,main,24,Oracle,136.653,1051,5.98101
+A,test period,main,48,Age (oldest first),136.298,1920,3.26548
+A,test period,main,48,Age <= tau,136.298,1920,3.26548
+A,test period,main,48,Static p90 rule,84.9723,460,8.49723
+A,test period,main,48,"p90, filled by oldest-first",136.02,1920,3.25881
+A,test period,main,48,Kaplan–Meier (D×R),138.587,1911,3.33595
+A,test period,main,48,Ensemble,141.931,1901,3.43442
+A,test period,main,48,Oracle,147.227,1885,3.59282
+A,test period,warm-up,6,Age (oldest first),61.1156,271,10.3739
+A,test period,warm-up,6,Age <= tau,61.1156,271,10.3739
+A,test period,warm-up,6,Static p90 rule,54.4913,235,10.6664
+A,test period,warm-up,6,"p90, filled by oldest-first",59.2936,271,10.0646
+A,test period,warm-up,6,Kaplan–Meier (D×R),62.3757,271,10.5878
+A,test period,warm-up,6,Ensemble,65.8992,271,11.1858
+A,test period,warm-up,6,Oracle,87.3291,271,14.8234
+A,test period,warm-up,12,Age (oldest first),80.1245,542,6.80024
+A,test period,warm-up,12,Age <= tau,80.1245,542,6.80024
+A,test period,warm-up,12,Static p90 rule,66.3698,360,8.48058
+A,test period,warm-up,12,"p90, filled by oldest-first",79.0122,542,6.70583
+A,test period,warm-up,12,Kaplan–Meier (D×R),79.4409,541,6.75468
+A,test period,warm-up,12,Ensemble,88.1834,541,7.49803
+A,test period,warm-up,12,Oracle,112.194,538,9.59279
+A,test period,warm-up,24,Age (oldest first),111.521,1065,4.81686
+A,test period,warm-up,24,Age <= tau,111.521,1065,4.81686
+A,test period,warm-up,24,Static p90 rule,80.4881,442,8.37658
+A,test period,warm-up,24,"p90, filled by oldest-first",110.317,1065,4.76486
+A,test period,warm-up,24,Kaplan–Meier (D×R),112.207,1062,4.8602
+A,test period,warm-up,24,Ensemble,123.067,1062,5.3306
+A,test period,warm-up,24,Oracle,135.182,1051,5.91662
+A,test period,warm-up,48,Age (oldest first),134.577,1920,3.22423
+A,test period,warm-up,48,Age <= tau,134.577,1920,3.22423
+A,test period,warm-up,48,Static p90 rule,84.6105,455,8.55403
+A,test period,warm-up,48,"p90, filled by oldest-first",134.298,1920,3.21756
+A,test period,warm-up,48,Kaplan–Meier (D×R),137.034,1911,3.29857
+A,test period,warm-up,48,Ensemble,140.273,1901,3.39429
+A,test period,warm-up,48,Oracle,145.385,1885,3.54786
+A,test period,"warm-up, non-escalable removed",6,Age (oldest first),57.4698,271,9.75502
+A,test period,"warm-up, non-escalable removed",6,Age <= tau,57.4698,271,9.75502
+A,test period,"warm-up, non-escalable removed",6,Static p90 rule,51.3028,232,10.1721
+A,test period,"warm-up, non-escalable removed",6,"p90, filled by oldest-first",54.1457,271,9.19078
+A,test period,"warm-up, non-escalable removed",6,Kaplan–Meier (D×R),58.5736,271,9.94237
+A,test period,"warm-up, non-escalable removed",6,Ensemble,61.9543,271,10.5162
+A,test period,"warm-up, non-escalable removed",6,Oracle,82.6651,271,14.0317
+A,test period,"warm-up, non-escalable removed",12,Age (oldest first),75.5428,542,6.41138
+A,test period,"warm-up, non-escalable removed",12,Age <= tau,75.5428,542,6.41138
+A,test period,"warm-up, non-escalable removed",12,Static p90 rule,62.56,351,8.19874
+A,test period,"warm-up, non-escalable removed",12,"p90, filled by oldest-first",74.3735,542,6.31214
+A,test period,"warm-up, non-escalable removed",12,Kaplan–Meier (D×R),74.8395,541,6.36343
+A,test period,"warm-up, non-escalable removed",12,Ensemble,83.6115,541,7.1093
+A,test period,"warm-up, non-escalable removed",12,Oracle,106.966,538,9.14581
+A,test period,"warm-up, non-escalable removed",24,Age (oldest first),106.941,1064,4.62338
+A,test period,"warm-up, non-escalable removed",24,Age <= tau,106.941,1064,4.62338
+A,test period,"warm-up, non-escalable removed",24,Static p90 rule,76.3134,426,8.24041
+A,test period,"warm-up, non-escalable removed",24,"p90, filled by oldest-first",105.754,1064,4.57205
+A,test period,"warm-up, non-escalable removed",24,Kaplan–Meier (D×R),107.528,1061,4.66192
+A,test period,"warm-up, non-escalable removed",24,Ensemble,117.586,1060,5.10279
+A,test period,"warm-up, non-escalable removed",24,Oracle,129.099,1048,5.66654
+A,test period,"warm-up, non-escalable removed",48,Age (oldest first),128.944,1903,3.11688
+A,test period,"warm-up, non-escalable removed",48,Age <= tau,128.944,1903,3.11688
+A,test period,"warm-up, non-escalable removed",48,Static p90 rule,80.3924,437,8.46236
+A,test period,"warm-up, non-escalable removed",48,"p90, filled by oldest-first",128.666,1903,3.11015
+A,test period,"warm-up, non-escalable removed",48,Kaplan–Meier (D×R),130.824,1897,3.17232
+A,test period,"warm-up, non-escalable removed",48,Ensemble,133.922,1886,3.26639
+A,test period,"warm-up, non-escalable removed",48,Oracle,138.708,1871,3.41023
+A,test period,"warm-up, effect worsening 0.5",6,Age (oldest first),54.2129,271,9.20219
+A,test period,"warm-up, effect worsening 0.5",6,Ensemble,58.3207,271,9.89945
+A,test period,"warm-up, effect worsening 0.5",12,Age (oldest first),69.5085,542,5.89925
+A,test period,"warm-up, effect worsening 0.5",12,Ensemble,76.4792,541,6.50285
+A,test period,"warm-up, effect worsening 0.5",24,Age (oldest first),95.2113,1065,4.11241
+A,test period,"warm-up, effect worsening 0.5",24,Ensemble,105.348,1062,4.56311
+A,test period,"warm-up, effect worsening 0.5",48,Age (oldest first),112.752,1920,2.70136
+A,test period,"warm-up, effect worsening 0.5",48,Ensemble,117.576,1901,2.84508
+A,test period,"warm-up, effect worsening 1",6,Age (oldest first),48.2995,271,8.19844
+A,test period,"warm-up, effect worsening 1",6,Ensemble,51.9024,271,8.81
+A,test period,"warm-up, effect worsening 1",12,Age (oldest first),60.7339,542,5.15454
+A,test period,"warm-up, effect worsening 1",12,Ensemble,66.8616,541,5.68509
+A,test period,"warm-up, effect worsening 1",24,Age (oldest first),82.2857,1065,3.55413
+A,test period,"warm-up, effect worsening 1",24,Ensemble,91.2212,1062,3.9512
+A,test period,"warm-up, effect worsening 1",48,Age (oldest first),96.6303,1920,2.3151
+A,test period,"warm-up, effect worsening 1",48,Ensemble,100.639,1901,2.43525
+A,rolling origins,main,6,Age (oldest first),59.4365,308,10.0347
+A,rolling origins,main,6,Age <= tau,59.4365,308,10.0347
+A,rolling origins,main,6,Static p90 rule,53.332,273,10.1585
+A,rolling origins,main,6,"p90, filled by oldest-first",56.9094,308,9.60808
+A,rolling origins,main,6,Kaplan–Meier (D×R),64.0034,308,10.8058
+A,rolling origins,main,6,Ensemble,65.871,308,11.1211
+A,rolling origins,main,6,Oracle,92.3638,308,15.5939
+A,rolling origins,main,12,Age (oldest first),82.3652,616,6.9529
+A,rolling origins,main,12,Age <= tau,82.3652,616,6.9529
+A,rolling origins,main,12,Static p90 rule,66.6643,443,7.82515
+A,rolling origins,main,12,"p90, filled by oldest-first",81.0006,616,6.83772
+A,rolling origins,main,12,Kaplan–Meier (D×R),81.4709,615,6.8886
+A,rolling origins,main,12,Ensemble,90.7778,615,7.67552
+A,rolling origins,main,12,Oracle,119.382,612,10.1435
+A,rolling origins,main,24,Age (oldest first),115.968,1217,4.95507
+A,rolling origins,main,24,Age <= tau,115.968,1217,4.95507
+A,rolling origins,main,24,Static p90 rule,80.6621,563,7.45014
+A,rolling origins,main,24,"p90, filled by oldest-first",114.587,1217,4.89609
+A,rolling origins,main,24,Kaplan–Meier (D×R),114.699,1215,4.90893
+A,rolling origins,main,24,Ensemble,128.14,1213,5.49324
+A,rolling origins,main,24,Oracle,144.306,1207,6.21701
+A,rolling origins,main,48,Age (oldest first),142.25,2262,3.27012
+A,rolling origins,main,48,Age <= tau,142.25,2262,3.27012
+A,rolling origins,main,48,Static p90 rule,86.0036,591,7.56715
+A,rolling origins,main,48,"p90, filled by oldest-first",141.783,2264,3.2565
+A,rolling origins,main,48,Kaplan–Meier (D×R),144.635,2252,3.33971
+A,rolling origins,main,48,Ensemble,149.946,2233,3.4918
+A,rolling origins,main,48,Oracle,155.535,2219,3.64479
+A,rolling origins,warm-up,6,Age (oldest first),59.2052,308,9.99569
+A,rolling origins,warm-up,6,Age <= tau,59.2052,308,9.99569
+A,rolling origins,warm-up,6,Static p90 rule,53.2413,273,10.1412
+A,rolling origins,warm-up,6,"p90, filled by oldest-first",56.8187,308,9.59276
+A,rolling origins,warm-up,6,Kaplan–Meier (D×R),63.7601,308,10.7647
+A,rolling origins,warm-up,6,Ensemble,65.9308,308,11.1312
+A,rolling origins,warm-up,6,Oracle,92.0456,308,15.5402
+A,rolling origins,warm-up,12,Age (oldest first),82.4159,616,6.95719
+A,rolling origins,warm-up,12,Age <= tau,82.4159,616,6.95719
+A,rolling origins,warm-up,12,Static p90 rule,66.5232,442,7.82626
+A,rolling origins,warm-up,12,"p90, filled by oldest-first",81.2735,616,6.86075
+A,rolling origins,warm-up,12,Kaplan–Meier (D×R),81.0459,615,6.85266
+A,rolling origins,warm-up,12,Ensemble,91.7317,615,7.75618
+A,rolling origins,warm-up,12,Oracle,118.972,612,10.1088
+A,rolling origins,warm-up,24,Age (oldest first),116.977,1215,5.00644
+A,rolling origins,warm-up,24,Age <= tau,116.977,1215,5.00644
+A,rolling origins,warm-up,24,Static p90 rule,81.297,556,7.60331
+A,rolling origins,warm-up,24,"p90, filled by oldest-first",115.777,1215,4.95507
+A,rolling origins,warm-up,24,Kaplan–Meier (D×R),116.822,1213,5.00804
+A,rolling origins,warm-up,24,Ensemble,129.772,1212,5.56778
+A,rolling origins,warm-up,24,Oracle,143.619,1205,6.19767
+A,rolling origins,warm-up,48,Age (oldest first),141.776,2249,3.27807
+A,rolling origins,warm-up,48,Age <= tau,141.776,2249,3.27807
+A,rolling origins,warm-up,48,Static p90 rule,85.1316,574,7.71227
+A,rolling origins,warm-up,48,"p90, filled by oldest-first",141.53,2249,3.27237
+A,rolling origins,warm-up,48,Kaplan–Meier (D×R),144.583,2236,3.3624
+A,rolling origins,warm-up,48,Ensemble,149.078,2220,3.49192
+A,rolling origins,warm-up,48,Oracle,153.952,2206,3.62896
+A,rolling origins,"warm-up, non-escalable removed",6,Age (oldest first),54.297,308,9.16703
+A,rolling origins,"warm-up, non-escalable removed",6,Age <= tau,54.297,308,9.16703
+A,rolling origins,"warm-up, non-escalable removed",6,Static p90 rule,49.1634,269,9.50371
+A,rolling origins,"warm-up, non-escalable removed",6,"p90, filled by oldest-first",51.6727,308,8.72397
+A,rolling origins,"warm-up, non-escalable removed",6,Kaplan–Meier (D×R),57.8119,308,9.76045
+A,rolling origins,"warm-up, non-escalable removed",6,Ensemble,59.9738,308,10.1254
+A,rolling origins,"warm-up, non-escalable removed",6,Oracle,84.9097,308,14.3354
+A,rolling origins,"warm-up, non-escalable removed",12,Age (oldest first),75.2918,616,6.3558
+A,rolling origins,"warm-up, non-escalable removed",12,Age <= tau,75.2918,616,6.3558
+A,rolling origins,"warm-up, non-escalable removed",12,Static p90 rule,61.7246,431,7.44705
+A,rolling origins,"warm-up, non-escalable removed",12,"p90, filled by oldest-first",74.0678,616,6.25248
+A,rolling origins,"warm-up, non-escalable removed",12,Kaplan–Meier (D×R),73.7209,615,6.23331
+A,rolling origins,"warm-up, non-escalable removed",12,Ensemble,84.688,615,7.16061
+A,rolling origins,"warm-up, non-escalable removed",12,Oracle,111.086,612,9.43872
+A,rolling origins,"warm-up, non-escalable removed",24,Age (oldest first),109.446,1214,4.68795
+A,rolling origins,"warm-up, non-escalable removed",24,Age <= tau,109.446,1214,4.68795
+A,rolling origins,"warm-up, non-escalable removed",24,Static p90 rule,76.0991,539,7.34166
+A,rolling origins,"warm-up, non-escalable removed",24,"p90, filled by oldest-first",108.278,1214,4.63795
+A,rolling origins,"warm-up, non-escalable removed",24,Kaplan–Meier (D×R),109.012,1212,4.67709
+A,rolling origins,"warm-up, non-escalable removed",24,Ensemble,121.22,1211,5.20516
+A,rolling origins,"warm-up, non-escalable removed",24,Oracle,134.666,1202,5.8258
+A,rolling origins,"warm-up, non-escalable removed",48,Age (oldest first),133.163,2231,3.10376
+A,rolling origins,"warm-up, non-escalable removed",48,Age <= tau,133.163,2231,3.10376
+A,rolling origins,"warm-up, non-escalable removed",48,Static p90 rule,79.8184,555,7.47848
+A,rolling origins,"warm-up, non-escalable removed",48,"p90, filled by oldest-first",132.917,2231,3.09801
+A,rolling origins,"warm-up, non-escalable removed",48,Kaplan–Meier (D×R),135.28,2221,3.16729
+A,rolling origins,"warm-up, non-escalable removed",48,Ensemble,139.642,2204,3.29463
+A,rolling origins,"warm-up, non-escalable removed",48,Oracle,144.357,2190,3.42765
+A,rolling origins,"warm-up, effect worsening 0.5",6,Age (oldest first),52.786,308,8.91192
+A,rolling origins,"warm-up, effect worsening 0.5",6,Ensemble,58.4868,308,9.8744
+A,rolling origins,"warm-up, effect worsening 0.5",12,Age (oldest first),71.9097,616,6.0703
+A,rolling origins,"warm-up, effect worsening 0.5",12,Ensemble,79.993,615,6.76363
+A,rolling origins,"warm-up, effect worsening 0.5",24,Age (oldest first),100.555,1215,4.3036
+A,rolling origins,"warm-up, effect worsening 0.5",24,Ensemble,111.848,1212,4.79874
+A,rolling origins,"warm-up, effect worsening 0.5",48,Age (oldest first),119.609,2249,2.76552
+A,rolling origins,"warm-up, effect worsening 0.5",48,Ensemble,125.916,2220,2.94939
+A,rolling origins,"warm-up, effect worsening 1",6,Age (oldest first),47.2945,308,7.98479
+A,rolling origins,"warm-up, effect worsening 1",6,Ensemble,52.0301,308,8.7843
+A,rolling origins,"warm-up, effect worsening 1",12,Age (oldest first),63.0554,616,5.32286
+A,rolling origins,"warm-up, effect worsening 1",12,Ensemble,70.1998,615,5.93559
+A,rolling origins,"warm-up, effect worsening 1",24,Age (oldest first),87.3536,1215,3.73859
+A,rolling origins,"warm-up, effect worsening 1",24,Ensemble,97.3011,1212,4.17464
+A,rolling origins,"warm-up, effect worsening 1",48,Age (oldest first),103.185,2249,2.38578
+A,rolling origins,"warm-up, effect worsening 1",48,Ensemble,108.6,2220,2.54378
+B,test period,main,6,Age (oldest first),259.381,160,45.3917
+B,test period,main,6,Age <= tau,326.012,160,57.0521
+B,test period,main,6,Static p90 rule,220.225,160,38.5394
+B,test period,main,6,"p90, filled by oldest-first",220.225,160,38.5394
+B,test period,main,6,Kaplan–Meier (D×R),464.509,160,81.2891
+B,test period,main,6,Ensemble,458.129,160,80.1725
+B,test period,main,6,Oracle,474.286,160,83.0
+B,test period,main,12,Age (oldest first),692.048,320,60.5542
+B,test period,main,12,Age <= tau,700.382,320,61.2834
+B,test period,main,12,Static p90 rule,379.131,320,33.174
+B,test period,main,12,"p90, filled by oldest-first",379.131,320,33.174
+B,test period,main,12,Kaplan–Meier (D×R),797.811,320,69.8085
+B,test period,main,12,Ensemble,802.694,320,70.2357
+B,test period,main,12,Oracle,926.242,320,81.0461
+B,test period,main,24,Age (oldest first),1089.58,640,47.6691
+B,test period,main,24,Age <= tau,1089.58,640,47.6691
+B,test period,main,24,Static p90 rule,512.25,635,22.5874
+B,test period,main,24,"p90, filled by oldest-first",516.675,640,22.6045
+B,test period,main,24,Kaplan–Meier (D×R),1197.24,640,52.3792
+B,test period,main,24,Ensemble,1191.17,640,52.1137
+B,test period,main,24,Oracle,1393.15,640,60.9501
+B,test period,main,48,Age (oldest first),1453.71,1280,31.7998
+B,test period,main,48,Age <= tau,1453.71,1280,31.7998
+B,test period,main,48,Static p90 rule,664.391,1218,15.2734
+B,test period,main,48,"p90, filled by oldest-first",735.86,1280,16.0969
+B,test period,main,48,Kaplan–Meier (D×R),1484.97,1280,32.4836
+B,test period,main,48,Ensemble,1496.19,1280,32.7293
+B,test period,main,48,Oracle,1788.71,1280,39.128
+B,test period,warm-up,6,Age (oldest first),270.831,160,47.3954
+B,test period,warm-up,6,Age <= tau,340.135,160,59.5236
+B,test period,warm-up,6,Static p90 rule,225.641,160,39.4872
+B,test period,warm-up,6,"p90, filled by oldest-first",225.641,160,39.4872
+B,test period,warm-up,6,Kaplan–Meier (D×R),471.342,160,82.4848
+B,test period,warm-up,6,Ensemble,469.18,160,82.1066
+B,test period,warm-up,6,Oracle,474.286,160,83.0
+B,test period,warm-up,12,Age (oldest first),698.32,320,61.103
+B,test period,warm-up,12,Age <= tau,700.998,320,61.3373
+B,test period,warm-up,12,Static p90 rule,379.483,320,33.2048
+B,test period,warm-up,12,"p90, filled by oldest-first",379.483,320,33.2048
+B,test period,warm-up,12,Kaplan–Meier (D×R),813.177,320,71.153
+B,test period,warm-up,12,Ensemble,808.852,320,70.7745
+B,test period,warm-up,12,Oracle,922.189,320,80.6915
+B,test period,warm-up,24,Age (oldest first),1089.58,640,47.6691
+B,test period,warm-up,24,Age <= tau,1089.58,640,47.6691
+B,test period,warm-up,24,Static p90 rule,512.595,635,22.6026
+B,test period,warm-up,24,"p90, filled by oldest-first",527.416,640,23.0745
+B,test period,warm-up,24,Kaplan–Meier (D×R),1188.51,640,51.9974
+B,test period,warm-up,24,Ensemble,1190.98,640,52.1054
+B,test period,warm-up,24,Oracle,1382.77,640,60.4963
+B,test period,warm-up,48,Age (oldest first),1452.47,1280,31.7728
+B,test period,warm-up,48,Age <= tau,1452.47,1280,31.7728
+B,test period,warm-up,48,Static p90 rule,666.371,1215,15.3567
+B,test period,warm-up,48,"p90, filled by oldest-first",738.218,1280,16.1485
+B,test period,warm-up,48,Kaplan–Meier (D×R),1470.22,1280,32.161
+B,test period,warm-up,48,Ensemble,1485.07,1280,32.4858
+B,test period,warm-up,48,Oracle,1772.99,1280,38.7842
+B,test period,"warm-up, non-escalable removed",6,Age (oldest first),255.114,160,44.645
+B,test period,"warm-up, non-escalable removed",6,Age <= tau,330.154,160,57.7769
+B,test period,"warm-up, non-escalable removed",6,Static p90 rule,217.587,160,38.0778
+B,test period,"warm-up, non-escalable removed",6,"p90, filled by oldest-first",217.587,160,38.0778
+B,test period,"warm-up, non-escalable removed",6,Kaplan–Meier (D×R),471.342,160,82.4848
+B,test period,"warm-up, non-escalable removed",6,Ensemble,466.029,160,81.555
+B,test period,"warm-up, non-escalable removed",6,Oracle,474.286,160,83.0
+B,test period,"warm-up, non-escalable removed",12,Age (oldest first),690.324,320,60.4033
+B,test period,"warm-up, non-escalable removed",12,Age <= tau,693.235,320,60.658
+B,test period,"warm-up, non-escalable removed",12,Static p90 rule,353.804,320,30.9579
+B,test period,"warm-up, non-escalable removed",12,"p90, filled by oldest-first",353.804,320,30.9579
+B,test period,"warm-up, non-escalable removed",12,Kaplan–Meier (D×R),794.824,320,69.5471
+B,test period,"warm-up, non-escalable removed",12,Ensemble,797.859,320,69.8127
+B,test period,"warm-up, non-escalable removed",12,Oracle,917.12,320,80.248
+B,test period,"warm-up, non-escalable removed",24,Age (oldest first),1078.76,640,47.1958
+B,test period,"warm-up, non-escalable removed",24,Age <= tau,1078.76,640,47.1958
+B,test period,"warm-up, non-escalable removed",24,Static p90 rule,476.197,634,21.0308
+B,test period,"warm-up, non-escalable removed",24,"p90, filled by oldest-first",493.983,640,21.6118
+B,test period,"warm-up, non-escalable removed",24,Kaplan–Meier (D×R),1136.69,640,49.7301
+B,test period,"warm-up, non-escalable removed",24,Ensemble,1131.62,640,49.5084
+B,test period,"warm-up, non-escalable removed",24,Oracle,1312.72,640,57.4313
+B,test period,"warm-up, non-escalable removed",48,Age (oldest first),1334.23,1280,29.1863
+B,test period,"warm-up, non-escalable removed",48,Age <= tau,1334.23,1280,29.1863
+B,test period,"warm-up, non-escalable removed",48,Static p90 rule,614.822,1211,14.2155
+B,test period,"warm-up, non-escalable removed",48,"p90, filled by oldest-first",689.74,1280,15.0881
+B,test period,"warm-up, non-escalable removed",48,Kaplan–Meier (D×R),1337.91,1280,29.2669
+B,test period,"warm-up, non-escalable removed",48,Ensemble,1354.96,1280,29.6397
+B,test period,"warm-up, non-escalable removed",48,Oracle,1637.39,1280,35.8179
+B,test period,"warm-up, effect worsening 0.5",6,Age (oldest first),216.876,160,37.9533
+B,test period,"warm-up, effect worsening 0.5",6,Ensemble,339.696,160,59.4468
+B,test period,"warm-up, effect worsening 0.5",12,Age (oldest first),551.779,320,48.2807
+B,test period,"warm-up, effect worsening 0.5",12,Ensemble,601.614,320,52.6412
+B,test period,"warm-up, effect worsening 0.5",24,Age (oldest first),872.163,640,38.1571
+B,test period,"warm-up, effect worsening 0.5",24,Ensemble,932.457,640,40.795
+B,test period,"warm-up, effect worsening 0.5",48,Age (oldest first),1171.33,1280,25.6228
+B,test period,"warm-up, effect worsening 0.5",48,Ensemble,1197.21,1280,26.1889
+B,test period,"warm-up, effect worsening 1",6,Age (oldest first),166.235,160,29.0911
+B,test period,"warm-up, effect worsening 1",6,Ensemble,214.553,160,37.5468
+B,test period,"warm-up, effect worsening 1",12,Age (oldest first),411.093,320,35.9706
+B,test period,"warm-up, effect worsening 1",12,Ensemble,402.08,320,35.182
+B,test period,"warm-up, effect worsening 1",24,Age (oldest first),663.785,640,29.0406
+B,test period,"warm-up, effect worsening 1",24,Ensemble,684.267,640,29.9367
+B,test period,"warm-up, effect worsening 1",48,Age (oldest first),904.146,1280,19.7782
+B,test period,"warm-up, effect worsening 1",48,Ensemble,923.541,1280,20.2025
+B,rolling origins,main,6,Age (oldest first),314.417,308,53.0834
+B,rolling origins,main,6,Age <= tau,316.303,308,53.4018
+B,rolling origins,main,6,Static p90 rule,186.74,308,31.5276
+B,rolling origins,main,6,"p90, filled by oldest-first",186.74,308,31.5276
+B,rolling origins,main,6,Kaplan–Meier (D×R),395.924,308,66.8444
+B,rolling origins,main,6,Ensemble,394.083,308,66.5335
+B,rolling origins,main,6,Oracle,431.129,308,72.788
+B,rolling origins,main,12,Age (oldest first),563.146,616,47.5383
+B,rolling origins,main,12,Age <= tau,563.146,616,47.5383
+B,rolling origins,main,12,Static p90 rule,287.8,616,24.2948
+B,rolling origins,main,12,"p90, filled by oldest-first",287.8,616,24.2948
+B,rolling origins,main,12,Kaplan–Meier (D×R),640.441,616,54.0632
+B,rolling origins,main,12,Ensemble,651.73,616,55.0162
+B,rolling origins,main,12,Oracle,752.916,616,63.5578
+B,rolling origins,main,24,Age (oldest first),803.833,1232,33.928
+B,rolling origins,main,24,Age <= tau,803.833,1232,33.928
+B,rolling origins,main,24,Static p90 rule,388.745,1186,17.0445
+B,rolling origins,main,24,"p90, filled by oldest-first",417.692,1232,17.6299
+B,rolling origins,main,24,Kaplan–Meier (D×R),909.76,1232,38.399
+B,rolling origins,main,24,Ensemble,922.814,1232,38.95
+B,rolling origins,main,24,Oracle,1079.89,1232,45.5796
+B,rolling origins,main,48,Age (oldest first),1068.58,2464,22.5511
+B,rolling origins,main,48,Age <= tau,1068.58,2464,22.5511
+B,rolling origins,main,48,Static p90 rule,490.689,2001,12.7515
+B,rolling origins,main,48,"p90, filled by oldest-first",701.016,2464,14.7942
+B,rolling origins,main,48,Kaplan–Meier (D×R),1123.39,2464,23.708
+B,rolling origins,main,48,Ensemble,1158.05,2464,24.4393
+B,rolling origins,main,48,Oracle,1364.76,2464,28.8018
+B,rolling origins,warm-up,6,Age (oldest first),357.609,308,60.3755
+B,rolling origins,warm-up,6,Age <= tau,326.973,308,55.2033
+B,rolling origins,warm-up,6,Static p90 rule,220.486,308,37.2249
+B,rolling origins,warm-up,6,"p90, filled by oldest-first",220.486,308,37.2249
+B,rolling origins,warm-up,6,Kaplan–Meier (D×R),472.729,308,79.8115
+B,rolling origins,warm-up,6,Ensemble,461.261,308,77.8752
+B,rolling origins,warm-up,6,Oracle,449.27,308,75.8507
+B,rolling origins,warm-up,12,Age (oldest first),557.892,616,47.0948
+B,rolling origins,warm-up,12,Age <= tau,582.01,616,49.1307
+B,rolling origins,warm-up,12,Static p90 rule,292.75,616,24.7127
+B,rolling origins,warm-up,12,"p90, filled by oldest-first",292.75,616,24.7127
+B,rolling origins,warm-up,12,Kaplan–Meier (D×R),665.716,616,56.1968
+B,rolling origins,warm-up,12,Ensemble,654.445,616,55.2453
+B,rolling origins,warm-up,12,Oracle,745.347,616,62.9189
+B,rolling origins,warm-up,24,Age (oldest first),830.625,1232,35.0589
+B,rolling origins,warm-up,24,Age <= tau,829.452,1232,35.0093
+B,rolling origins,warm-up,24,Static p90 rule,399.92,1193,17.4316
+B,rolling origins,warm-up,24,"p90, filled by oldest-first",457.186,1232,19.2968
+B,rolling origins,warm-up,24,Kaplan–Meier (D×R),886.759,1232,37.4281
+B,rolling origins,warm-up,24,Ensemble,896.782,1232,37.8512
+B,rolling origins,warm-up,24,Oracle,1055.32,1232,44.5429
+B,rolling origins,warm-up,48,Age (oldest first),1052.41,2464,22.21
+B,rolling origins,warm-up,48,Age <= tau,1052.41,2464,22.21
+B,rolling origins,warm-up,48,Static p90 rule,505.218,2004,13.1095
+B,rolling origins,warm-up,48,"p90, filled by oldest-first",693.347,2464,14.6323
+B,rolling origins,warm-up,48,Kaplan–Meier (D×R),1093.03,2464,23.0671
+B,rolling origins,warm-up,48,Ensemble,1117.25,2464,23.5784
+B,rolling origins,warm-up,48,Oracle,1318.09,2464,27.8169
+B,rolling origins,"warm-up, non-escalable removed",6,Age (oldest first),300.763,308,50.7781
+B,rolling origins,"warm-up, non-escalable removed",6,Age <= tau,314.789,308,53.1462
+B,rolling origins,"warm-up, non-escalable removed",6,Static p90 rule,188.425,308,31.812
+B,rolling origins,"warm-up, non-escalable removed",6,"p90, filled by oldest-first",188.425,308,31.812
+B,rolling origins,"warm-up, non-escalable removed",6,Kaplan–Meier (D×R),456.897,308,77.1384
+B,rolling origins,"warm-up, non-escalable removed",6,Ensemble,431.546,308,72.8585
+B,rolling origins,"warm-up, non-escalable removed",6,Oracle,435.562,308,73.5365
+B,rolling origins,"warm-up, non-escalable removed",12,Age (oldest first),552.499,616,46.6395
+B,rolling origins,"warm-up, non-escalable removed",12,Age <= tau,568.383,616,47.9804
+B,rolling origins,"warm-up, non-escalable removed",12,Static p90 rule,274.318,616,23.1567
+B,rolling origins,"warm-up, non-escalable removed",12,"p90, filled by oldest-first",274.318,616,23.1567
+B,rolling origins,"warm-up, non-escalable removed",12,Kaplan–Meier (D×R),639.332,616,53.9696
+B,rolling origins,"warm-up, non-escalable removed",12,Ensemble,639.273,616,53.9646
+B,rolling origins,"warm-up, non-escalable removed",12,Oracle,730.653,616,61.6785
+B,rolling origins,"warm-up, non-escalable removed",24,Age (oldest first),797.017,1232,33.6403
+B,rolling origins,"warm-up, non-escalable removed",24,Age <= tau,797.017,1232,33.6403
+B,rolling origins,"warm-up, non-escalable removed",24,Static p90 rule,371.243,1182,16.3322
+B,rolling origins,"warm-up, non-escalable removed",24,"p90, filled by oldest-first",422.408,1232,17.8289
+B,rolling origins,"warm-up, non-escalable removed",24,Kaplan–Meier (D×R),848.208,1232,35.801
+B,rolling origins,"warm-up, non-escalable removed",24,Ensemble,866.342,1232,36.5664
+B,rolling origins,"warm-up, non-escalable removed",24,Oracle,1004.4,1232,42.3934
+B,rolling origins,"warm-up, non-escalable removed",48,Age (oldest first),988.276,2464,20.8565
+B,rolling origins,"warm-up, non-escalable removed",48,Age <= tau,988.276,2464,20.8565
+B,rolling origins,"warm-up, non-escalable removed",48,Static p90 rule,465.529,1976,12.2508
+B,rolling origins,"warm-up, non-escalable removed",48,"p90, filled by oldest-first",661.066,2464,13.9511
+B,rolling origins,"warm-up, non-escalable removed",48,Kaplan–Meier (D×R),1016.59,2464,21.4539
+B,rolling origins,"warm-up, non-escalable removed",48,Ensemble,1041.44,2464,21.9784
+B,rolling origins,"warm-up, non-escalable removed",48,Oracle,1229.07,2464,25.9382
+B,rolling origins,"warm-up, effect worsening 0.5",6,Age (oldest first),304.701,308,51.443
+B,rolling origins,"warm-up, effect worsening 0.5",6,Ensemble,362.812,308,61.2539
+B,rolling origins,"warm-up, effect worsening 0.5",12,Age (oldest first),450.47,616,38.0267
+B,rolling origins,"warm-up, effect worsening 0.5",12,Ensemble,507.132,616,42.8098
+B,rolling origins,"warm-up, effect worsening 0.5",24,Age (oldest first),678.415,1232,28.6344
+B,rolling origins,"warm-up, effect worsening 0.5",24,Ensemble,718.258,1232,30.3161
+B,rolling origins,"warm-up, effect worsening 0.5",48,Age (oldest first),869.342,2464,18.3465
+B,rolling origins,"warm-up, effect worsening 0.5",48,Ensemble,914.471,2464,19.2989
+B,rolling origins,"warm-up, effect worsening 1",6,Age (oldest first),254.226,308,42.9213
+B,rolling origins,"warm-up, effect worsening 1",6,Ensemble,267.698,308,45.1958
+B,rolling origins,"warm-up, effect worsening 1",12,Age (oldest first),348.06,616,29.3817
+B,rolling origins,"warm-up, effect worsening 1",12,Ensemble,365.642,616,30.8659
+B,rolling origins,"warm-up, effect worsening 1",24,Age (oldest first),533.709,1232,22.5267
+B,rolling origins,"warm-up, effect worsening 1",24,Ensemble,548.228,1232,23.1395
+B,rolling origins,"warm-up, effect worsening 1",48,Age (oldest first),697.476,2464,14.7195
+B,rolling origins,"warm-up, effect worsening 1",48,Ensemble,723.505,2464,15.2688

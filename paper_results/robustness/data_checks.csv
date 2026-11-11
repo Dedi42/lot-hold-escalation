@@ -1,0 +1,25 @@
+line,check,value
+A,C4 hold hours overlapping another hold of the same lot (share),0
+A,C7 groups with >= 300 holds (n),15
+A,C7 share of their holds,0.955449
+A,C7 Weibull shape within groups: median,0.529757
+A,C7 within-group shape: 10th percentile,0.478823
+A,C7 within-group shape: 90th percentile,0.866964
+A,C7 share of groups with shape < 1,0.933333
+A,C7 hold-weighted mean within-group shape,0.593527
+A,C8 test holds whose reason is unseen in training (share),0.0011976
+A,C8 test holds whose step is unseen in training (share),0
+A,C8 test holds whose product_family is unseen in training (share),0
+A,C8 test holds whose department is unseen in training (share),0
+B,C4 hold hours overlapping another hold of the same lot (share),0.0069303
+B,C7 groups with >= 300 holds (n),23
+B,C7 share of their holds,0.988422
+B,C7 Weibull shape within groups: median,0.546189
+B,C7 within-group shape: 10th percentile,0.393302
+B,C7 within-group shape: 90th percentile,0.823541
+B,C7 share of groups with shape < 1,0.913043
+B,C7 hold-weighted mean within-group shape,0.566859
+B,C8 test holds whose reason is unseen in training (share),0.0002948
+B,C8 test holds whose step is unseen in training (share),0
+B,C8 test holds whose product_family is unseen in training (share),0
+B,C8 test holds whose department is unseen in training (share),0

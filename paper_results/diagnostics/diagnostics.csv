@@ -1,0 +1,3 @@
+line,holds,span_days,holds_per_day_all,train_days,train_holds_per_day,val_days,val_holds_per_day,test_days,test_holds_per_day,censored_holds,censored_share,censored_in_test,censored_in_train,censored_in_val,train_released_after_train_end,val_released_after_val_end,earlier_holds_open_at_first_review,earlier_holds_remaining_h,test_candidates_at_first_review,reviews,calendar_days,elapsed_review_days,holds_older_than_tau_share_of_candidates,candidates_censored_share,hours_from_end_of_extract_to_last_review
+A,37575,273.4,137.415,190.7,118.195,36.5,205.681,46.1,162.883,0,0,0,0,0,63,22,2,336,27,271,46,45,0.0373756,0,3.6
+B,135685,183.3,740.211,123.7,658.165,31.9,851.027,27.7,978.828,81,0.000596971,28,34,19,252,189,148,21311,134,160,28,26.5,0.157732,0.0476997,1397.1

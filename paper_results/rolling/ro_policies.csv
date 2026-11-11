@@ -1,0 +1,169 @@
+line,variant,budget,policy,h_per_calendar_day,escalations
+A,warm-up,6,Age (oldest first),59.2052,308
+A,"alpha(e), gamma 0.25",6,Age (oldest first),51.6543,308
+A,"alpha(e), gamma 0.5",6,Age (oldest first),45.1667,308
+A,"alpha(e), gamma 1",6,Age (oldest first),34.7531,308
+A,warm-up,6,Kaplan–Meier (D×R),63.7601,308
+A,"alpha(e), gamma 0.25",6,Kaplan–Meier (D×R),58.118,308
+A,"alpha(e), gamma 0.5",6,Kaplan–Meier (D×R),53.0942,308
+A,"alpha(e), gamma 1",6,Kaplan–Meier (D×R),44.587,308
+A,warm-up,6,Ensemble,65.9308,308
+A,"alpha(e), gamma 0.25",6,Ensemble,59.2856,308
+A,"alpha(e), gamma 0.5",6,Ensemble,53.5504,308
+A,"alpha(e), gamma 1",6,Ensemble,44.2499,308
+A,warm-up,6,Ensemble (gain),65.4375,308
+A,warm-up,6,Transfer,58.3848,308
+A,warm-up,6,Oracle,92.0456,308
+A,"alpha(e), gamma 0.25",6,Oracle,89.1696,308
+A,"alpha(e), gamma 0.5",6,Oracle,86.46,308
+A,"alpha(e), gamma 1",6,Oracle,81.4857,308
+A,"alpha(e), gamma 0.25",6,"Oracle, effect-aware",89.2037,308
+A,"alpha(e), gamma 0.5",6,"Oracle, effect-aware",86.5725,308
+A,"alpha(e), gamma 1",6,"Oracle, effect-aware",81.7902,308
+A,warm-up,12,Age (oldest first),82.4159,616
+A,"alpha(e), gamma 0.25",12,Age (oldest first),74.9437,616
+A,"alpha(e), gamma 0.5",12,Age (oldest first),68.2582,616
+A,"alpha(e), gamma 1",12,Age (oldest first),56.8882,616
+A,warm-up,12,Kaplan–Meier (D×R),81.0459,615
+A,"alpha(e), gamma 0.25",12,Kaplan–Meier (D×R),75.5163,615
+A,"alpha(e), gamma 0.5",12,Kaplan–Meier (D×R),70.4889,615
+A,"alpha(e), gamma 1",12,Kaplan–Meier (D×R),61.7168,615
+A,warm-up,12,Ensemble,91.7317,615
+A,"alpha(e), gamma 0.25",12,Ensemble,85.9119,615
+A,"alpha(e), gamma 0.5",12,Ensemble,80.6632,615
+A,"alpha(e), gamma 1",12,Ensemble,71.6167,615
+A,warm-up,12,Ensemble (gain),91.853,615
+A,warm-up,12,Transfer,74.3905,615
+A,warm-up,12,Oracle,118.972,612
+A,"alpha(e), gamma 0.25",12,Oracle,116.24,612
+A,"alpha(e), gamma 0.5",12,Oracle,113.623,612
+A,"alpha(e), gamma 1",12,Oracle,108.701,612
+A,"alpha(e), gamma 0.25",12,"Oracle, effect-aware",116.265,612
+A,"alpha(e), gamma 0.5",12,"Oracle, effect-aware",113.691,612
+A,"alpha(e), gamma 1",12,"Oracle, effect-aware",108.901,612
+A,warm-up,24,Age (oldest first),116.977,1215
+A,"alpha(e), gamma 0.25",24,Age (oldest first),110.657,1215
+A,"alpha(e), gamma 0.5",24,Age (oldest first),104.734,1215
+A,"alpha(e), gamma 1",24,Age (oldest first),93.9729,1215
+A,warm-up,24,Kaplan–Meier (D×R),116.822,1213
+A,"alpha(e), gamma 0.25",24,Kaplan–Meier (D×R),111.411,1213
+A,"alpha(e), gamma 0.5",24,Kaplan–Meier (D×R),106.348,1213
+A,"alpha(e), gamma 1",24,Kaplan–Meier (D×R),97.1592,1213
+A,warm-up,24,Ensemble,129.772,1212
+A,"alpha(e), gamma 0.25",24,Ensemble,125.665,1212
+A,"alpha(e), gamma 0.5",24,Ensemble,121.783,1212
+A,"alpha(e), gamma 1",24,Ensemble,114.629,1212
+A,warm-up,24,Ensemble (gain),128.866,1212
+A,warm-up,24,Transfer,102.177,1219
+A,warm-up,24,Oracle,143.619,1205
+A,"alpha(e), gamma 0.25",24,Oracle,140.873,1205
+A,"alpha(e), gamma 0.5",24,Oracle,138.208,1205
+A,"alpha(e), gamma 1",24,Oracle,133.107,1205
+A,"alpha(e), gamma 0.25",24,"Oracle, effect-aware",140.88,1205
+A,"alpha(e), gamma 0.5",24,"Oracle, effect-aware",138.228,1205
+A,"alpha(e), gamma 1",24,"Oracle, effect-aware",133.162,1205
+A,warm-up,48,Age (oldest first),141.776,2249
+A,"alpha(e), gamma 0.25",48,Age (oldest first),137.6,2249
+A,"alpha(e), gamma 0.5",48,Age (oldest first),133.58,2249
+A,"alpha(e), gamma 1",48,Age (oldest first),125.983,2249
+A,warm-up,48,Kaplan–Meier (D×R),144.583,2236
+A,"alpha(e), gamma 0.25",48,Kaplan–Meier (D×R),141.144,2236
+A,"alpha(e), gamma 0.5",48,Kaplan–Meier (D×R),137.815,2236
+A,"alpha(e), gamma 1",48,Kaplan–Meier (D×R),131.473,2236
+A,warm-up,48,Ensemble,149.078,2220
+A,"alpha(e), gamma 0.25",48,Ensemble,146.157,2220
+A,"alpha(e), gamma 0.5",48,Ensemble,143.319,2220
+A,"alpha(e), gamma 1",48,Ensemble,137.882,2220
+A,warm-up,48,Ensemble (gain),148.902,2220
+A,warm-up,48,Transfer,139.802,2253
+A,warm-up,48,Oracle,153.952,2206
+A,"alpha(e), gamma 0.25",48,Oracle,151.278,2206
+A,"alpha(e), gamma 0.5",48,Oracle,148.67,2206
+A,"alpha(e), gamma 1",48,Oracle,143.645,2206
+A,"alpha(e), gamma 0.25",48,"Oracle, effect-aware",151.278,2206
+A,"alpha(e), gamma 0.5",48,"Oracle, effect-aware",148.67,2206
+A,"alpha(e), gamma 1",48,"Oracle, effect-aware",143.646,2206
+B,warm-up,6,Age (oldest first),357.609,308
+B,"alpha(e), gamma 0.25",6,Age (oldest first),188.677,308
+B,"alpha(e), gamma 0.5",6,Age (oldest first),101.212,308
+B,"alpha(e), gamma 1",6,Age (oldest first),30.632,308
+B,warm-up,6,Kaplan–Meier (D×R),472.729,308
+B,"alpha(e), gamma 0.25",6,Kaplan–Meier (D×R),341.211,308
+B,"alpha(e), gamma 0.5",6,Kaplan–Meier (D×R),266.233,308
+B,"alpha(e), gamma 1",6,Kaplan–Meier (D×R),186.557,308
+B,warm-up,6,Ensemble,461.261,308
+B,"alpha(e), gamma 0.25",6,Ensemble,335.086,308
+B,"alpha(e), gamma 0.5",6,Ensemble,270.503,308
+B,"alpha(e), gamma 1",6,Ensemble,211.405,308
+B,warm-up,6,Ensemble (gain),460.937,308
+B,warm-up,6,Transfer,374.547,308
+B,warm-up,6,Oracle,449.27,308
+B,"alpha(e), gamma 0.25",6,Oracle,365.137,308
+B,"alpha(e), gamma 0.5",6,Oracle,316.768,308
+B,"alpha(e), gamma 1",6,Oracle,262.453,308
+B,"alpha(e), gamma 0.25",6,"Oracle, effect-aware",425.099,308
+B,"alpha(e), gamma 0.5",6,"Oracle, effect-aware",399.586,308
+B,"alpha(e), gamma 1",6,"Oracle, effect-aware",373.167,308
+B,warm-up,12,Age (oldest first),557.892,616
+B,"alpha(e), gamma 0.25",12,Age (oldest first),386.451,616
+B,"alpha(e), gamma 0.5",12,Age (oldest first),272.233,616
+B,"alpha(e), gamma 1",12,Age (oldest first),141.178,616
+B,warm-up,12,Kaplan–Meier (D×R),665.716,616
+B,"alpha(e), gamma 0.25",12,Kaplan–Meier (D×R),555.905,616
+B,"alpha(e), gamma 0.5",12,Kaplan–Meier (D×R),490.647,616
+B,"alpha(e), gamma 1",12,Kaplan–Meier (D×R),415.206,616
+B,warm-up,12,Ensemble,654.445,616
+B,"alpha(e), gamma 0.25",12,Ensemble,566.939,616
+B,"alpha(e), gamma 0.5",12,Ensemble,510.362,616
+B,"alpha(e), gamma 1",12,Ensemble,440.728,616
+B,warm-up,12,Ensemble (gain),643.844,616
+B,warm-up,12,Transfer,603.915,616
+B,warm-up,12,Oracle,745.347,616
+B,"alpha(e), gamma 0.25",12,Oracle,703.978,616
+B,"alpha(e), gamma 0.5",12,Oracle,667.825,616
+B,"alpha(e), gamma 1",12,Oracle,607.299,616
+B,"alpha(e), gamma 0.25",12,"Oracle, effect-aware",717.199,616
+B,"alpha(e), gamma 0.5",12,"Oracle, effect-aware",688.836,616
+B,"alpha(e), gamma 1",12,"Oracle, effect-aware",640.736,616
+B,warm-up,24,Age (oldest first),830.625,1232
+B,"alpha(e), gamma 0.25",24,Age (oldest first),649.858,1232
+B,"alpha(e), gamma 0.5",24,Age (oldest first),511.721,1232
+B,"alpha(e), gamma 1",24,Age (oldest first),323.324,1232
+B,warm-up,24,Kaplan–Meier (D×R),886.759,1232
+B,"alpha(e), gamma 0.25",24,Kaplan–Meier (D×R),791.607,1232
+B,"alpha(e), gamma 0.5",24,Kaplan–Meier (D×R),717.228,1232
+B,"alpha(e), gamma 1",24,Kaplan–Meier (D×R),610.068,1232
+B,warm-up,24,Ensemble,896.782,1232
+B,"alpha(e), gamma 0.25",24,Ensemble,818.09,1232
+B,"alpha(e), gamma 0.5",24,Ensemble,755.671,1232
+B,"alpha(e), gamma 1",24,Ensemble,662.676,1232
+B,warm-up,24,Ensemble (gain),899.948,1232
+B,warm-up,24,Transfer,802.032,1232
+B,warm-up,24,Oracle,1055.32,1232
+B,"alpha(e), gamma 0.25",24,Oracle,1014.73,1232
+B,"alpha(e), gamma 0.5",24,Oracle,978.121,1232
+B,"alpha(e), gamma 1",24,Oracle,914.191,1232
+B,"alpha(e), gamma 0.25",24,"Oracle, effect-aware",1019.28,1232
+B,"alpha(e), gamma 0.5",24,"Oracle, effect-aware",986.462,1232
+B,"alpha(e), gamma 1",24,"Oracle, effect-aware",930.8,1232
+B,warm-up,48,Age (oldest first),1052.41,2464
+B,"alpha(e), gamma 0.25",48,Age (oldest first),905.365,2464
+B,"alpha(e), gamma 0.5",48,Age (oldest first),780.568,2464
+B,"alpha(e), gamma 1",48,Age (oldest first),584.02,2464
+B,warm-up,48,Kaplan–Meier (D×R),1093.03,2464
+B,"alpha(e), gamma 0.25",48,Kaplan–Meier (D×R),1009.52,2464
+B,"alpha(e), gamma 0.5",48,Kaplan–Meier (D×R),937.441,2464
+B,"alpha(e), gamma 1",48,Kaplan–Meier (D×R),820.139,2464
+B,warm-up,48,Ensemble,1117.25,2464
+B,"alpha(e), gamma 0.25",48,Ensemble,1049.94,2464
+B,"alpha(e), gamma 0.5",48,Ensemble,991.791,2464
+B,"alpha(e), gamma 1",48,Ensemble,896.408,2464
+B,warm-up,48,Ensemble (gain),1115.01,2464
+B,warm-up,48,Transfer,993.866,2464
+B,warm-up,48,Oracle,1318.09,2464
+B,"alpha(e), gamma 0.25",48,Oracle,1285.1,2464
+B,"alpha(e), gamma 0.5",48,Oracle,1253.49,2464
+B,"alpha(e), gamma 1",48,Oracle,1194.13,2464
+B,"alpha(e), gamma 0.25",48,"Oracle, effect-aware",1285.54,2464
+B,"alpha(e), gamma 0.5",48,"Oracle, effect-aware",1254.55,2464
+B,"alpha(e), gamma 1",48,"Oracle, effect-aware",1197.37,2464
