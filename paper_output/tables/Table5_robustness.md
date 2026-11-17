@@ -1,0 +1,16 @@
+**Table 5. Robustness, transfer, and delivery (gain over oldest-first, %).**
+
+| Hypothesis | Line | B = 6 | B = 12 | B = 24 | B = 48 |
+|---|---|---|---|---|---|
+| H6 Heterogeneous α(c), δ(c): mean gain (share of draws > 0) | A | +11.3 (1.00) | +11.3 (1.00) | +11.0 (1.00) | +5.2 (1.00) |
+| H6 Heterogeneous α(c), δ(c): mean gain (share of draws > 0) | B | +33.2 (0.885) | +17.6 (0.995) | +8.1 (1.00) | +6.2 (1.00) |
+| H7 Gain-based vs mean-based index (TOST ±3%) | A | −0.7 | +0.1* | −0.7* | −0.1* |
+| H7 Gain-based vs mean-based index (TOST ±3%) | B | −0.1* | −1.6* | +0.4* | −0.2* |
+| H8a Transferred model vs oldest-first | A→B | +4.7 | +8.2 | −3.4 | −5.6 |
+| H8a Transferred model vs oldest-first | B→A | −1.4 | −9.7 | −12.7 | −1.4 |
+| H8b Transferred vs in-line model (non-inferiority 3%) | A→B | −18.8 | −7.7 | −10.6 | −11.0 |
+| H8b Transferred vs in-line model (non-inferiority 3%) | B→A | −11.4 | −18.9 | −21.3 | −6.2 |
+| H10 Lateness removed, ensemble + urgency vs oldest-first | A | +8.7* | +7.6* | +4.8* | +1.7* |
+| H10 Lateness removed, ensemble + urgency vs plain ensemble | A | +7.4* | +5.0* | +1.8* | +0.5* |
+
+Note: H6–H8 over rolling origins (warm-up replay); H10 on the test period of Line A (replay without warm-up). * significant after Holm correction (TOST for H7, one-sided otherwise).

@@ -1,0 +1,11 @@
+**Table 3. Discrimination among open holds (test period; landmarks 0.5–48 h, scores ranked within each landmark).**
+
+| Model | C-index A | AUC(> 8 h) A | C-index B | AUC(> 8 h) B |
+|---|---|---|---|---|
+| Static p90 rule | 0.451 [0.441, 0.461] | 0.421 [0.396, 0.443] | 0.407 [0.401, 0.414] | 0.344 [0.333, 0.355] |
+| Kaplan–Meier (department × reason) | 0.529 [0.520, 0.539] | 0.556 [0.535, 0.577] | 0.591 [0.584, 0.597] | 0.652 [0.641, 0.663] |
+| LightGBM onset | 0.623 [0.611, 0.635] | 0.727 [0.699, 0.756] | 0.632 [0.625, 0.638] | 0.699 [0.688, 0.711] |
+| Landmark GBM | 0.633 [0.625, 0.641] | 0.752 [0.736, 0.769] | 0.647 [0.641, 0.652] | 0.750 [0.741, 0.760] |
+| Ensemble index (4) | 0.647 [0.638, 0.657] | 0.771 [0.749, 0.791] | 0.663 [0.657, 0.669] | 0.757 [0.747, 0.767] |
+
+Note: 95% lot cluster bootstrap intervals (1,000 replicates) in brackets.

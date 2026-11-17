@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Citation details are withheld during double-blind review."
+title: "lot-hold-escalation: survival analysis and budgeted escalation of lot holds"
+version: 2.3.1
+license: MIT
+authors:
+  - name: "Anonymous (under double-blind review)"
+keywords: [lot hold, escalation policy, survival analysis, deep learning, semiconductor manufacturing]
