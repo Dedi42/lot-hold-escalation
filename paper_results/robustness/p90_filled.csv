@@ -1,0 +1,17 @@
+line,budget,policy,h_per_calendar_day,escalations
+A,6,Static p90 rule,54.6945,235
+A,6,"p90, filled by oldest-first",57.6925,271
+A,12,Static p90 rule,66.4721,361
+A,12,"p90, filled by oldest-first",79.071,542
+A,24,Static p90 rule,80.8064,446
+A,24,"p90, filled by oldest-first",110.661,1065
+A,48,Static p90 rule,84.9723,460
+A,48,"p90, filled by oldest-first",136.02,1920
+B,6,Static p90 rule,220.225,160
+B,6,"p90, filled by oldest-first",220.225,160
+B,12,Static p90 rule,379.131,320
+B,12,"p90, filled by oldest-first",379.131,320
+B,24,Static p90 rule,512.25,635
+B,24,"p90, filled by oldest-first",516.675,640
+B,48,Static p90 rule,664.391,1218
+B,48,"p90, filled by oldest-first",735.86,1280

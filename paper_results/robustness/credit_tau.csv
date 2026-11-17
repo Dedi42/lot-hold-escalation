@@ -1,0 +1,129 @@
+line,kind,cap_h,budget,policy,h_per_calendar_day
+A,test period,72,6,Age (oldest first),43.9444
+A,test period,72,6,Kaplan–Meier (D×R),44.6269
+A,test period,72,6,Ensemble,48.1598
+A,test period,72,6,Oracle,68.7115
+A,test period,72,12,Age (oldest first),61.6547
+A,test period,72,12,Kaplan–Meier (D×R),60.8529
+A,test period,72,12,Ensemble,69.2805
+A,test period,72,12,Oracle,93.388
+A,test period,72,24,Age (oldest first),92.5465
+A,test period,72,24,Kaplan–Meier (D×R),92.8278
+A,test period,72,24,Ensemble,103.516
+A,test period,72,24,Oracle,116.564
+A,test period,72,48,Age (oldest first),116.406
+A,test period,72,48,Kaplan–Meier (D×R),118.498
+A,test period,72,48,Ensemble,121.952
+A,test period,72,48,Oracle,127.138
+A,test period,168,6,Age (oldest first),61.0287
+A,test period,168,6,Kaplan–Meier (D×R),62.5357
+A,test period,168,6,Ensemble,65.7658
+A,test period,168,6,Oracle,88.3861
+A,test period,168,12,Age (oldest first),80.1716
+A,test period,168,12,Kaplan–Meier (D×R),79.6385
+A,test period,168,12,Ensemble,88.3626
+A,test period,168,12,Oracle,113.434
+A,test period,168,24,Age (oldest first),111.865
+A,test period,168,24,Kaplan–Meier (D×R),112.415
+A,test period,168,24,Ensemble,123.226
+A,test period,168,24,Oracle,136.653
+A,test period,168,48,Age (oldest first),136.298
+A,test period,168,48,Kaplan–Meier (D×R),138.587
+A,test period,168,48,Ensemble,141.931
+A,test period,168,48,Oracle,147.227
+A,test period,336,6,Age (oldest first),68.1952
+A,test period,336,6,Kaplan–Meier (D×R),70.9197
+A,test period,336,6,Ensemble,74.0627
+A,test period,336,6,Oracle,97.8811
+A,test period,336,12,Age (oldest first),88.4251
+A,test period,336,12,Kaplan–Meier (D×R),88.6746
+A,test period,336,12,Ensemble,97.3987
+A,test period,336,12,Oracle,123.103
+A,test period,336,24,Age (oldest first),121.013
+A,test period,336,24,Kaplan–Meier (D×R),121.823
+A,test period,336,24,Ensemble,132.765
+A,test period,336,24,Oracle,146.322
+A,test period,336,48,Age (oldest first),145.75
+A,test period,336,48,Kaplan–Meier (D×R),148.256
+A,test period,336,48,Ensemble,151.6
+A,test period,336,48,Oracle,156.896
+A,test period,none,6,Age (oldest first),68.1952
+A,test period,none,6,Kaplan–Meier (D×R),70.9197
+A,test period,none,6,Ensemble,74.0627
+A,test period,none,6,Oracle,97.8811
+A,test period,none,12,Age (oldest first),88.4251
+A,test period,none,12,Kaplan–Meier (D×R),88.6746
+A,test period,none,12,Ensemble,97.3987
+A,test period,none,12,Oracle,123.103
+A,test period,none,24,Age (oldest first),121.013
+A,test period,none,24,Kaplan–Meier (D×R),121.823
+A,test period,none,24,Ensemble,132.765
+A,test period,none,24,Oracle,146.322
+A,test period,none,48,Age (oldest first),145.75
+A,test period,none,48,Kaplan–Meier (D×R),148.256
+A,test period,none,48,Ensemble,151.6
+A,test period,none,48,Oracle,156.896
+B,test period,72,6,Age (oldest first),148.498
+B,test period,72,6,Kaplan–Meier (D×R),196.975
+B,test period,72,6,Ensemble,195.042
+B,test period,72,6,Oracle,200
+B,test period,72,12,Age (oldest first),343.867
+B,test period,72,12,Kaplan–Meier (D×R),359.27
+B,test period,72,12,Ensemble,364.737
+B,test period,72,12,Oracle,397.838
+B,test period,72,24,Age (oldest first),556.442
+B,test period,72,24,Kaplan–Meier (D×R),602.902
+B,test period,72,24,Ensemble,598.892
+B,test period,72,24,Oracle,711.648
+B,test period,72,48,Age (oldest first),812.705
+B,test period,72,48,Kaplan–Meier (D×R),820.573
+B,test period,72,48,Ensemble,825.772
+B,test period,72,48,Oracle,1070.66
+B,test period,168,6,Age (oldest first),259.381
+B,test period,168,6,Kaplan–Meier (D×R),464.509
+B,test period,168,6,Ensemble,458.129
+B,test period,168,6,Oracle,474.286
+B,test period,168,12,Age (oldest first),692.048
+B,test period,168,12,Kaplan–Meier (D×R),797.811
+B,test period,168,12,Ensemble,802.694
+B,test period,168,12,Oracle,926.242
+B,test period,168,24,Age (oldest first),1089.58
+B,test period,168,24,Kaplan–Meier (D×R),1197.24
+B,test period,168,24,Ensemble,1191.17
+B,test period,168,24,Oracle,1393.15
+B,test period,168,48,Age (oldest first),1453.71
+B,test period,168,48,Kaplan–Meier (D×R),1484.97
+B,test period,168,48,Ensemble,1496.19
+B,test period,168,48,Oracle,1788.71
+B,test period,336,6,Age (oldest first),339.166
+B,test period,336,6,Kaplan–Meier (D×R),708.59
+B,test period,336,6,Ensemble,716.321
+B,test period,336,6,Oracle,887.083
+B,test period,336,12,Age (oldest first),952.526
+B,test period,336,12,Kaplan–Meier (D×R),1272.38
+B,test period,336,12,Ensemble,1289.11
+B,test period,336,12,Oracle,1577.13
+B,test period,336,24,Age (oldest first),1561.24
+B,test period,336,24,Kaplan–Meier (D×R),1873.65
+B,test period,336,24,Ensemble,1832.58
+B,test period,336,24,Oracle,2129.57
+B,test period,336,48,Age (oldest first),2076.16
+B,test period,336,48,Kaplan–Meier (D×R),2205.04
+B,test period,336,48,Ensemble,2220.21
+B,test period,336,48,Oracle,2535.97
+B,test period,none,6,Age (oldest first),736.883
+B,test period,none,6,Kaplan–Meier (D×R),832.544
+B,test period,none,6,Ensemble,912.318
+B,test period,none,6,Oracle,2086.58
+B,test period,none,12,Age (oldest first),1742.27
+B,test period,none,12,Kaplan–Meier (D×R),1889.77
+B,test period,none,12,Ensemble,2103.93
+B,test period,none,12,Oracle,2799.02
+B,test period,none,24,Age (oldest first),2643.28
+B,test period,none,24,Kaplan–Meier (D×R),3023.69
+B,test period,none,24,Ensemble,2931.96
+B,test period,none,24,Oracle,3361.88
+B,test period,none,48,Age (oldest first),3260.19
+B,test period,none,48,Kaplan–Meier (D×R),3412.33
+B,test period,none,48,Ensemble,3428.93
+B,test period,none,48,Oracle,3770.61

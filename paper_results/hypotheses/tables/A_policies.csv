@@ -1,0 +1,37 @@
+line,budget,policy,h_per_day,escalations
+A,6,Age (oldest first),61.0287,271
+A,6,Static p90 rule,54.6945,235
+A,6,Kaplan–Meier (D×R),62.5357,271
+A,6,LightGBM onset,63.5108,271
+A,6,Landmark GBM,65.6893,271
+A,6,Ensemble,65.7658,271
+A,6,Ensemble (gain),67.0037,271
+A,6,Ensemble + urgency,61.4161,271
+A,6,Oracle,88.3861,271
+A,12,Age (oldest first),80.1716,542
+A,12,Static p90 rule,66.4721,361
+A,12,Kaplan–Meier (D×R),79.6385,541
+A,12,LightGBM onset,86.4446,541
+A,12,Landmark GBM,86.4912,539
+A,12,Ensemble,88.3626,540
+A,12,Ensemble (gain),90.8068,541
+A,12,Ensemble + urgency,85.2085,541
+A,12,Oracle,113.434,538
+A,24,Age (oldest first),111.865,1065
+A,24,Static p90 rule,80.8064,446
+A,24,Kaplan–Meier (D×R),112.415,1062
+A,24,LightGBM onset,121.894,1063
+A,24,Landmark GBM,123.062,1059
+A,24,Ensemble,123.226,1062
+A,24,Ensemble (gain),123.147,1063
+A,24,Ensemble + urgency,119.854,1064
+A,24,Oracle,136.653,1051
+A,48,Age (oldest first),136.298,1920
+A,48,Static p90 rule,84.9723,460
+A,48,Kaplan–Meier (D×R),138.587,1911
+A,48,LightGBM onset,140.811,1906
+A,48,Landmark GBM,142.708,1897
+A,48,Ensemble,141.931,1901
+A,48,Ensemble (gain),142.082,1901
+A,48,Ensemble + urgency,141.857,1901
+A,48,Oracle,147.227,1885

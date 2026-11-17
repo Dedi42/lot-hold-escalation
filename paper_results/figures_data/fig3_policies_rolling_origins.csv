@@ -1,0 +1,57 @@
+line,budget,policy,h_per_calendar_day
+A,6,Age (oldest first),59.2052
+A,6,Age <= tau,59.2052
+A,6,Static p90 rule,53.2413
+A,6,"p90, filled by oldest-first",56.8187
+A,6,Kaplan–Meier (D×R),63.7601
+A,6,Ensemble,65.9308
+A,6,Oracle,92.0456
+A,12,Age (oldest first),82.4159
+A,12,Age <= tau,82.4159
+A,12,Static p90 rule,66.5232
+A,12,"p90, filled by oldest-first",81.2735
+A,12,Kaplan–Meier (D×R),81.0459
+A,12,Ensemble,91.7317
+A,12,Oracle,118.972
+A,24,Age (oldest first),116.977
+A,24,Age <= tau,116.977
+A,24,Static p90 rule,81.297
+A,24,"p90, filled by oldest-first",115.777
+A,24,Kaplan–Meier (D×R),116.822
+A,24,Ensemble,129.772
+A,24,Oracle,143.619
+A,48,Age (oldest first),141.776
+A,48,Age <= tau,141.776
+A,48,Static p90 rule,85.1316
+A,48,"p90, filled by oldest-first",141.53
+A,48,Kaplan–Meier (D×R),144.583
+A,48,Ensemble,149.078
+A,48,Oracle,153.952
+B,6,Age (oldest first),357.609
+B,6,Age <= tau,326.973
+B,6,Static p90 rule,220.486
+B,6,"p90, filled by oldest-first",220.486
+B,6,Kaplan–Meier (D×R),472.729
+B,6,Ensemble,461.261
+B,6,Oracle,449.27
+B,12,Age (oldest first),557.892
+B,12,Age <= tau,582.01
+B,12,Static p90 rule,292.75
+B,12,"p90, filled by oldest-first",292.75
+B,12,Kaplan–Meier (D×R),665.716
+B,12,Ensemble,654.445
+B,12,Oracle,745.347
+B,24,Age (oldest first),830.625
+B,24,Age <= tau,829.452
+B,24,Static p90 rule,399.92
+B,24,"p90, filled by oldest-first",457.186
+B,24,Kaplan–Meier (D×R),886.759
+B,24,Ensemble,896.782
+B,24,Oracle,1055.32
+B,48,Age (oldest first),1052.41
+B,48,Age <= tau,1052.41
+B,48,Static p90 rule,505.218
+B,48,"p90, filled by oldest-first",693.347
+B,48,Kaplan–Meier (D×R),1093.03
+B,48,Ensemble,1117.25
+B,48,Oracle,1318.09

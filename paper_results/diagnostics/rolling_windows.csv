@@ -1,0 +1,161 @@
+line,origin,budget,policy,h_per_calendar_day,escalations
+A,1,6,Age (oldest first),42.3591,77
+A,1,6,Age <= tau,42.3591,77
+A,1,6,Kaplan–Meier (D×R),50.0672,77
+A,1,6,Ensemble,45.5853,77
+A,1,6,Oracle,78.2506,77
+A,1,12,Age (oldest first),66.419,154
+A,1,12,Age <= tau,66.419,154
+A,1,12,Kaplan–Meier (D×R),63.3196,154
+A,1,12,Ensemble,73.3287,154
+A,1,12,Oracle,108.964,154
+A,1,24,Age (oldest first),104.372,308
+A,1,24,Age <= tau,104.372,308
+A,1,24,Kaplan–Meier (D×R),100.944,308
+A,1,24,Ensemble,121.188,308
+A,1,24,Oracle,138.834,308
+A,1,48,Age (oldest first),132.19,609
+A,1,48,Age <= tau,132.19,609
+A,1,48,Kaplan–Meier (D×R),135.367,605
+A,1,48,Ensemble,142.89,600
+A,1,48,Oracle,148.736,598
+A,2,6,Age (oldest first),100.105,77
+A,2,6,Age <= tau,100.105,77
+A,2,6,Kaplan–Meier (D×R),106.199,77
+A,2,6,Ensemble,103.656,77
+A,2,6,Oracle,132.917,77
+A,2,12,Age (oldest first),117.884,154
+A,2,12,Age <= tau,117.884,154
+A,2,12,Kaplan–Meier (D×R),123.839,154
+A,2,12,Ensemble,130.219,154
+A,2,12,Oracle,165.037,154
+A,2,24,Age (oldest first),164.268,304
+A,2,24,Age <= tau,164.268,304
+A,2,24,Kaplan–Meier (D×R),160.072,303
+A,2,24,Ensemble,175.528,303
+A,2,24,Oracle,194.988,300
+A,2,48,Age (oldest first),195.848,551
+A,2,48,Age <= tau,195.848,551
+A,2,48,Kaplan–Meier (D×R),197.896,550
+A,2,48,Ensemble,203.03,543
+A,2,48,Oracle,209.062,543
+A,3,6,Age (oldest first),56.7295,77
+A,3,6,Age <= tau,56.7295,77
+A,3,6,Kaplan–Meier (D×R),60.3695,77
+A,3,6,Ensemble,64.4424,77
+A,3,6,Oracle,86.0461,77
+A,3,12,Age (oldest first),78.182,154
+A,3,12,Age <= tau,78.182,154
+A,3,12,Kaplan–Meier (D×R),77.3015,154
+A,3,12,Ensemble,82.8956,153
+A,3,12,Oracle,106.871,151
+A,3,24,Age (oldest first),98.289,304
+A,3,24,Age <= tau,98.289,304
+A,3,24,Kaplan–Meier (D×R),98.8034,304
+A,3,24,Ensemble,110.332,302
+A,3,24,Oracle,126.218,301
+A,3,48,Age (oldest first),120.686,582
+A,3,48,Age <= tau,120.686,582
+A,3,48,Kaplan–Meier (D×R),122.364,581
+A,3,48,Ensemble,127.569,579
+A,3,48,Oracle,134.562,571
+A,4,6,Age (oldest first),38.5526,77
+A,4,6,Age <= tau,38.5526,77
+A,4,6,Kaplan–Meier (D×R),39.378,77
+A,4,6,Ensemble,49.8001,77
+A,4,6,Oracle,72.2416,77
+A,4,12,Age (oldest first),66.9754,154
+A,4,12,Age <= tau,66.9754,154
+A,4,12,Kaplan–Meier (D×R),61.4235,153
+A,4,12,Ensemble,76.6683,154
+A,4,12,Oracle,96.6546,153
+A,4,24,Age (oldest first),96.9418,301
+A,4,24,Age <= tau,96.9418,301
+A,4,24,Kaplan–Meier (D×R),98.9763,300
+A,4,24,Ensemble,105.513,300
+A,4,24,Oracle,117.185,298
+A,4,48,Age (oldest first),120.277,520
+A,4,48,Age <= tau,120.277,520
+A,4,48,Kaplan–Meier (D×R),122.913,516
+A,4,48,Ensemble,126.294,511
+A,4,48,Oracle,129.779,507
+B,1,6,Age (oldest first),210.985,77
+B,1,6,Age <= tau,210.985,77
+B,1,6,Kaplan–Meier (D×R),251.397,77
+B,1,6,Ensemble,252.568,77
+B,1,6,Oracle,330.48,77
+B,1,12,Age (oldest first),312.434,154
+B,1,12,Age <= tau,312.434,154
+B,1,12,Kaplan–Meier (D×R),355.141,154
+B,1,12,Ensemble,374.003,154
+B,1,12,Oracle,474.168,154
+B,1,24,Age (oldest first),434.674,308
+B,1,24,Age <= tau,434.674,308
+B,1,24,Kaplan–Meier (D×R),489.794,308
+B,1,24,Ensemble,504.179,308
+B,1,24,Oracle,606.879,308
+B,1,48,Age (oldest first),570.055,616
+B,1,48,Age <= tau,570.055,616
+B,1,48,Kaplan–Meier (D×R),590.932,616
+B,1,48,Ensemble,633.583,616
+B,1,48,Oracle,728.256,616
+B,2,6,Age (oldest first),350.179,77
+B,2,6,Age <= tau,350.179,77
+B,2,6,Kaplan–Meier (D×R),395.099,77
+B,2,6,Ensemble,388.754,77
+B,2,6,Oracle,420.259,77
+B,2,12,Age (oldest first),556.847,154
+B,2,12,Age <= tau,556.847,154
+B,2,12,Kaplan–Meier (D×R),573.876,154
+B,2,12,Ensemble,577.472,154
+B,2,12,Oracle,645.695,154
+B,2,24,Age (oldest first),650.981,308
+B,2,24,Age <= tau,650.981,308
+B,2,24,Kaplan–Meier (D×R),667.984,308
+B,2,24,Ensemble,710.346,308
+B,2,24,Oracle,832.957,308
+B,2,48,Age (oldest first),783.89,616
+B,2,48,Age <= tau,783.89,616
+B,2,48,Kaplan–Meier (D×R),801.562,616
+B,2,48,Ensemble,850.614,616
+B,2,48,Oracle,994.475,616
+B,3,6,Age (oldest first),321.046,77
+B,3,6,Age <= tau,320.343,77
+B,3,6,Kaplan–Meier (D×R),464.667,77
+B,3,6,Ensemble,454.837,77
+B,3,6,Oracle,482.162,77
+B,3,12,Age (oldest first),656.793,154
+B,3,12,Age <= tau,656.793,154
+B,3,12,Kaplan–Meier (D×R),791.266,154
+B,3,12,Ensemble,783.839,154
+B,3,12,Oracle,908.694,154
+B,3,24,Age (oldest first),884.17,308
+B,3,24,Age <= tau,884.17,308
+B,3,24,Kaplan–Meier (D×R),1033.08,308
+B,3,24,Ensemble,1047.85,308
+B,3,24,Oracle,1259.04,308
+B,3,48,Age (oldest first),1141.39,616
+B,3,48,Age <= tau,1141.39,616
+B,3,48,Kaplan–Meier (D×R),1232.44,616
+B,3,48,Ensemble,1267.6,616
+B,3,48,Oracle,1565.3,616
+B,4,6,Age (oldest first),375.457,77
+B,4,6,Age <= tau,383.705,77
+B,4,6,Kaplan–Meier (D×R),472.535,77
+B,4,6,Ensemble,480.172,77
+B,4,6,Oracle,491.615,77
+B,4,12,Age (oldest first),726.511,154
+B,4,12,Age <= tau,726.511,154
+B,4,12,Kaplan–Meier (D×R),841.482,154
+B,4,12,Ensemble,871.605,154
+B,4,12,Oracle,983.106,154
+B,4,24,Age (oldest first),1245.51,308
+B,4,24,Age <= tau,1245.51,308
+B,4,24,Kaplan–Meier (D×R),1448.18,308
+B,4,24,Ensemble,1428.88,308
+B,4,24,Oracle,1620.67,308
+B,4,48,Age (oldest first),1778.98,616
+B,4,48,Age <= tau,1778.98,616
+B,4,48,Kaplan–Meier (D×R),1868.64,616
+B,4,48,Ensemble,1880.4,616
+B,4,48,Oracle,2171.01,616

@@ -1,0 +1,79 @@
+hypothesis,line,test,estimate,ci_lo,ci_hi,p,family,unit,note,decision_rule,budget,weeks,diff_h_per_day,late_lots,share_draws_positive,Q,Q_p,I2,p_holm,decision
+H1,A,share of hold hours in the longest 10% of holds > 0.5,0.741449,0.71485,0.771122,0.00199601,H1|A,share,,,,,,,,,,,0.00199601,supported
+H2a,A,Weibull shape of hold duration < 1,0.518103,0.514359,0.521848,0,H2a|A,shape,,,,,,,,,,,0,supported
+H2b,A,median remaining after 8 h / median at onset > 1,8.8265,8.05457,9.37661,0.00199601,H2b|A,ratio,,,,,,,,,,,0.00199601,supported
+H3a,A,AUC(remaining > 8 h): Ensemble > LightGBM onset,0.0317829,0.0235942,0.0395914,0,H3|A,ΔAUC,,,,,,,,,,,0,supported
+H3b,A,AUC(remaining > 8 h): Ensemble > Landmark GBM,0.0210465,0.0118531,0.030212,0,H3|A,ΔAUC,,,,,,,,,,,0,supported
+H3c,A,AUC(remaining > 8 h): Ensemble > Kaplan–Meier,0.146186,0.129851,0.163152,0,H3|A,ΔAUC,,,,,,,,,,,0,supported
+H3d,A,AUC(remaining > 8 h): Landmark GBM > Static p90,0.241388,0.218656,0.262356,0,H3|A,ΔAUC,,,,,,,,,,,0,supported
+H4,A,"Ensemble > oldest first, B = 6",0.0776209,-0.0549926,0.262993,0.133433,H4|A,relative gain,,,6,8,4.7371,,,,,,0.133433,not supported
+H5,A,"oldest first > static p90 rule, B = 6",-0.10379,-0.206785,-0.0404868,0.00049975,H5|A,p90 relative to oldest first,,,6,8,,,,,,,0.001999,supported
+H7,A,"gain-based ≈ mean-based index within ±3%, B = 6",0.0188232,-0.0037887,0.0499911,0.237381,H7|A,relative difference (90% CI),,,6,,,,,,,,0.474763,not shown
+H10,A,"Ensemble + urgency removes more lateness than oldest first, B = 6",0.0871329,0.0384836,0.147449,0.00149925,H10|A,relative lateness removed,,,6,,,784,,,,,0.001999,supported
+H4,A,"Ensemble > oldest first, B = 12",0.102169,0.0409028,0.190747,0.00049975,H4|A,relative gain,,,12,8,8.19105,,,,,,0.001999,supported
+H5,A,"oldest first > static p90 rule, B = 12",-0.170877,-0.267969,-0.104728,0.00049975,H5|A,p90 relative to oldest first,,,12,8,,,,,,,0.001999,supported
+H7,A,"gain-based ≈ mean-based index within ±3%, B = 12",0.027661,0.00175399,0.0589652,0.446777,H7|A,relative difference (90% CI),,,12,,,,,,,,0.474763,not shown
+H10,A,"Ensemble + urgency removes more lateness than oldest first, B = 12",0.0761171,0.0428895,0.11709,0.00049975,H10|A,relative lateness removed,,,12,,,784,,,,,0.001999,supported
+H4,A,"Ensemble > oldest first, B = 24",0.101558,0.0576477,0.154869,0.00049975,H4|A,relative gain,,,24,8,11.3609,,,,,,0.001999,supported
+H5,A,"oldest first > static p90 rule, B = 24",-0.277646,-0.352843,-0.224936,0.00049975,H5|A,p90 relative to oldest first,,,24,8,,,,,,,0.001999,supported
+H7,A,"gain-based ≈ mean-based index within ±3%, B = 24",-0.000641813,-0.0037071,0.00216036,0.00049975,H7|A,relative difference (90% CI),,,24,,,,,,,,0.001999,equivalent
+H10,A,"Ensemble + urgency removes more lateness than oldest first, B = 24",0.0480168,0.0305557,0.0692561,0.00049975,H10|A,relative lateness removed,,,24,,,784,,,,,0.001999,supported
+H4,A,"Ensemble > oldest first, B = 48",0.041327,0.0269133,0.0556987,0.00049975,H4|A,relative gain,,,48,8,5.6328,,,,,,0.001999,supported
+H5,A,"oldest first > static p90 rule, B = 48",-0.376571,-0.459586,-0.326953,0.00049975,H5|A,p90 relative to oldest first,,,48,8,,,,,,,0.001999,supported
+H7,A,"gain-based ≈ mean-based index within ±3%, B = 48",0.00106028,-0.000882999,0.0031118,0.00049975,H7|A,relative difference (90% CI),,,48,,,,,,,,0.001999,equivalent
+H10,A,"Ensemble + urgency removes more lateness than oldest first, B = 48",0.0173117,0.00916327,0.0276051,0.00049975,H10|A,relative lateness removed,,,48,,,784,,,,,0.001999,supported
+H6,A,"Ensemble > oldest first under heterogeneous α, δ, B = 6",0.0799467,0.0632665,0.0974488,,H6|A,relative gain (5–95% of draws),,supported if 5th percentile > 0,6,,,,1,,,,,supported
+H6,A,"Ensemble > oldest first under heterogeneous α, δ, B = 12",0.10329,0.0846391,0.12313,,H6|A,relative gain (5–95% of draws),,supported if 5th percentile > 0,12,,,,1,,,,,supported
+H6,A,"Ensemble > oldest first under heterogeneous α, δ, B = 24",0.102355,0.0848695,0.121928,,H6|A,relative gain (5–95% of draws),,supported if 5th percentile > 0,24,,,,1,,,,,supported
+H6,A,"Ensemble > oldest first under heterogeneous α, δ, B = 48",0.0410608,0.035279,0.0483067,,H6|A,relative gain (5–95% of draws),,supported if 5th percentile > 0,48,,,,1,,,,,supported
+H4-RO,A,"Ensemble > oldest first over 4 rolling origins, B = 6",0.108258,0.001413,0.287939,0.023988,H4-RO|A,relative gain,,,6,8,,,,,,,0.023988,supported
+H4-RO,A,"Ensemble > oldest first over 4 rolling origins, B = 12",0.102139,0.0383616,0.194247,0.00149925,H4-RO|A,relative gain,,,12,8,,,,,,,0.0029985,supported
+H4-RO,A,"Ensemble > oldest first over 4 rolling origins, B = 24",0.104966,0.0706167,0.145603,0.00049975,H4-RO|A,relative gain,,,24,8,,,,,,,0.001999,supported
+H4-RO,A,"Ensemble > oldest first over 4 rolling origins, B = 48",0.0540987,0.0372381,0.0742551,0.00049975,H4-RO|A,relative gain,,,48,8,,,,,,,0.001999,supported
+H1,B,share of hold hours in the longest 10% of holds > 0.5,0.821863,0.809286,0.832427,0.00199601,H1|B,share,,,,,,,,,,,0.00199601,supported
+H2a,B,Weibull shape of hold duration < 1,0.437345,0.435641,0.439048,0,H2a|B,shape,,,,,,,,,,,0,supported
+H2b,B,median remaining after 8 h / median at onset > 1,8.48943,8.12094,8.87086,0.00199601,H2b|B,ratio,,,,,,,,,,,0.00199601,supported
+H3a,B,AUC(remaining > 8 h): Ensemble > LightGBM onset,0.0457215,0.0418628,0.050142,0,H3|B,ΔAUC,,,,,,,,,,,0,supported
+H3b,B,AUC(remaining > 8 h): Ensemble > Landmark GBM,0.0123006,0.00845864,0.0159735,0,H3|B,ΔAUC,,,,,,,,,,,0,supported
+H3c,B,AUC(remaining > 8 h): Ensemble > Kaplan–Meier,0.0827072,0.075578,0.0892541,0,H3|B,ΔAUC,,,,,,,,,,,0,supported
+H3d,B,AUC(remaining > 8 h): Landmark GBM > Static p90,0.341005,0.327142,0.356758,0,H3|B,ΔAUC,,,,,,,,,,,0,supported
+H4,B,"Ensemble > oldest first, B = 6",0.766236,0.403955,1.36174,0.00049975,H4|B,relative gain,,,6,5,198.747,,,,,,0.001999,supported (only 5 test weeks)
+H5,B,"oldest first > static p90 rule, B = 6",-0.150959,-0.467868,0.336268,0.247376,H5|B,p90 relative to oldest first,,,6,5,,,,,,,0.247376,not supported (only 5 test weeks)
+H7,B,"gain-based ≈ mean-based index within ±3%, B = 6",-0.000669097,-0.00224752,0.000676299,0.00049975,H7|B,relative difference (90% CI),,,6,,,,,,,,0.001999,equivalent
+H4,B,"Ensemble > oldest first, B = 12",0.159882,0.0876085,0.309334,0.00049975,H4|B,relative gain,,,12,5,110.646,,,,,,0.001999,supported (only 5 test weeks)
+H5,B,"oldest first > static p90 rule, B = 12",-0.452161,-0.626316,-0.329121,0.00049975,H5|B,p90 relative to oldest first,,,12,5,,,,,,,0.001999,supported (only 5 test weeks)
+H7,B,"gain-based ≈ mean-based index within ±3%, B = 12",-0.00194942,-0.0273882,0.0288964,0.0414793,H7|B,relative difference (90% CI),,,12,,,,,,,,0.0829585,not shown
+H4,B,"Ensemble > oldest first, B = 24",0.0932386,-0.00130389,0.240611,0.0364818,H4|B,relative gain,,,24,5,101.591,,,,,,0.0729635,not supported (only 5 test weeks)
+H5,B,"oldest first > static p90 rule, B = 24",-0.529865,-0.660798,-0.438592,0.00049975,H5|B,p90 relative to oldest first,,,24,5,,,,,,,0.001999,supported (only 5 test weeks)
+H7,B,"gain-based ≈ mean-based index within ±3%, B = 24",0.00760318,-0.0185,0.041471,0.136432,H7|B,relative difference (90% CI),,,24,,,,,,,,0.136432,not shown
+H4,B,"Ensemble > oldest first, B = 48",0.0292282,-0.0431708,0.118832,0.206397,H4|B,relative gain,,,48,5,42.4891,,,,,,0.206397,not supported (only 5 test weeks)
+H5,B,"oldest first > static p90 rule, B = 48",-0.542967,-0.653274,-0.47113,0.00049975,H5|B,p90 relative to oldest first,,,48,5,,,,,,,0.001999,supported (only 5 test weeks)
+H7,B,"gain-based ≈ mean-based index within ±3%, B = 48",-0.00125296,-0.00270021,0.00141521,0.00049975,H7|B,relative difference (90% CI),,,48,,,,,,,,0.001999,equivalent
+H6,B,"Ensemble > oldest first under heterogeneous α, δ, B = 6",0.742849,0.175026,1.20678,,H6|B,relative gain (5–95% of draws),,supported if 5th percentile > 0,6,,,,1,,,,,supported
+H6,B,"Ensemble > oldest first under heterogeneous α, δ, B = 12",0.148559,0.0405014,0.273307,,H6|B,relative gain (5–95% of draws),,supported if 5th percentile > 0,12,,,,0.95,,,,,supported
+H6,B,"Ensemble > oldest first under heterogeneous α, δ, B = 24",0.0898072,0.0523218,0.128874,,H6|B,relative gain (5–95% of draws),,supported if 5th percentile > 0,24,,,,1,,,,,supported
+H6,B,"Ensemble > oldest first under heterogeneous α, δ, B = 48",0.0270694,0.0135519,0.0443137,,H6|B,relative gain (5–95% of draws),,supported if 5th percentile > 0,48,,,,1,,,,,supported
+H4-RO,B,"Ensemble > oldest first over 4 rolling origins, B = 6",0.253378,0.093075,0.446453,0.0009995,H4-RO|B,relative gain,,,6,9,,,,,,,0.0029985,supported
+H4-RO,B,"Ensemble > oldest first over 4 rolling origins, B = 12",0.157301,0.0269739,0.289663,0.009995,H4-RO|B,relative gain,,,12,9,,,,,,,0.009995,supported
+H4-RO,B,"Ensemble > oldest first over 4 rolling origins, B = 24",0.148017,0.0917008,0.218364,0.00049975,H4-RO|B,relative gain,,,24,9,,,,,,,0.001999,supported
+H4-RO,B,"Ensemble > oldest first over 4 rolling origins, B = 48",0.0837292,0.0375366,0.141138,0.0009995,H4-RO|B,relative gain,,,48,9,,,,,,,0.0029985,supported
+H8a,A→B,"transferred ensemble > oldest first, B = 6",0.207786,0.00153729,0.466595,0.017991,H8a|A→B,relative gain,,,6,5,,,,,,,0.071964,not supported (only 5 test weeks)
+H8b,A→B,"transferred ensemble non-inferior to in-line ensemble (margin 3%), B = 6",-0.316181,-0.438425,-0.225361,1,H8b|A→B,relative difference,,,6,5,,,,,,,1,not supported (only 5 test weeks)
+H8a,A→B,"transferred ensemble > oldest first, B = 12",0.0201904,-0.0124094,0.0480844,0.145927,H8a|A→B,relative gain,,,12,5,,,,,,,0.437781,not supported (only 5 test weeks)
+H8b,A→B,"transferred ensemble non-inferior to in-line ensemble (margin 3%), B = 12",-0.120436,-0.234336,-0.0638754,1,H8b|A→B,relative difference,,,12,5,,,,,,,1,not supported (only 5 test weeks)
+H8a,A→B,"transferred ensemble > oldest first, B = 24",-0.0117842,-0.0408369,0.0342257,0.776612,H8a|A→B,relative gain,,,24,5,,,,,,,1,not supported (only 5 test weeks)
+H8b,A→B,"transferred ensemble non-inferior to in-line ensemble (margin 3%), B = 24",-0.0960658,-0.1988,0.00182733,0.909545,H8b|A→B,relative difference,,,24,5,,,,,,,1,not supported (only 5 test weeks)
+H8a,A→B,"transferred ensemble > oldest first, B = 48",-0.0645969,-0.109932,0.0290501,0.948026,H8a|A→B,relative gain,,,48,5,,,,,,,1,not supported (only 5 test weeks)
+H8b,A→B,"transferred ensemble non-inferior to in-line ensemble (margin 3%), B = 48",-0.0911606,-0.168175,0.0332818,0.862069,H8b|A→B,relative difference,,,48,5,,,,,,,1,not supported (only 5 test weeks)
+H8a,B→A,"transferred ensemble > oldest first, B = 6",-0.0370306,-0.123501,0.102958,0.737131,H8a|B→A,relative gain,,,6,8,,,,,,,1,not supported
+H8b,B→A,"transferred ensemble non-inferior to in-line ensemble (margin 3%), B = 6",-0.106393,-0.224839,-0.00883923,0.930035,H8b|B→A,relative difference,,,6,8,,,,,,,1,not supported
+H8a,B→A,"transferred ensemble > oldest first, B = 12",-0.0869692,-0.187735,0.00178544,0.972514,H8a|B→A,relative gain,,,12,8,,,,,,,1,not supported
+H8b,B→A,"transferred ensemble non-inferior to in-line ensemble (margin 3%), B = 12",-0.171605,-0.283755,-0.091529,1,H8b|B→A,relative difference,,,12,8,,,,,,,1,not supported
+H8a,B→A,"transferred ensemble > oldest first, B = 24",-0.117271,-0.198326,-0.0175384,0.990505,H8a|B→A,relative gain,,,24,8,,,,,,,1,not supported
+H8b,B→A,"transferred ensemble non-inferior to in-line ensemble (margin 3%), B = 24",-0.198655,-0.300208,-0.0916995,1,H8b|B→A,relative difference,,,24,8,,,,,,,1,not supported
+H8a,B→A,"transferred ensemble > oldest first, B = 48",-0.0137697,-0.0292288,0.000951665,0.962519,H8a|B→A,relative gain,,,48,8,,,,,,,1,not supported
+H8b,B→A,"transferred ensemble non-inferior to in-line ensemble (margin 3%), B = 48",-0.05291,-0.0742853,-0.0296747,0.973013,H8b|B→A,relative difference,,,48,8,,,,,,,1,not supported
+H9,pooled,"pooled gain over oldest first (rolling origins, 2 lines), B = 6",0.171317,0.0669596,0.285881,0.000447939,H9|rolling origins,relative gain,,,6,,,,,1.65316,0.19853,0.395097,0.000447939,supported
+H9,pooled,"pooled gain over oldest first (rolling origins, 2 lines), B = 12",0.116927,0.0521132,0.185733,0.000144148,H9|rolling origins,relative gain,,,12,,,,,0.508762,0.475675,0,0.000288296,supported
+H9,pooled,"pooled gain over oldest first (rolling origins, 2 lines), B = 24",0.116935,0.0846323,0.1502,7.58282e-14,H9|rolling origins,relative gain,,,24,,,,,1.31902,0.250767,0.241864,3.03313e-13,supported
+H9,pooled,"pooled gain over oldest first (rolling origins, 2 lines), B = 48",0.0576995,0.0402304,0.0754619,2.02927e-11,H9|rolling origins,relative gain,,,48,,,,,1.14834,0.283896,0.12918,6.0878e-11,supported

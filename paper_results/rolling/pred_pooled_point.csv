@@ -1,0 +1,11 @@
+line,model,version,C,AUC8
+A,LightGBM onset,pooled scores (Table 4 as published),0.672773,0.824584
+A,Landmark GBM,pooled scores (Table 4 as published),0.676086,0.835334
+A,Kaplan–Meier,pooled scores (Table 4 as published),0.608241,0.710195
+A,Static p90,pooled scores (Table 4 as published),0.541202,0.594767
+A,Ensemble,pooled scores (Table 4 as published),0.692648,0.856435
+B,LightGBM onset,pooled scores (Table 4 as published),0.686604,0.793049
+B,Landmark GBM,pooled scores (Table 4 as published),0.693396,0.826427
+B,Kaplan–Meier,pooled scores (Table 4 as published),0.652014,0.756107
+B,Static p90,pooled scores (Table 4 as published),0.48951,0.485891
+B,Ensemble,pooled scores (Table 4 as published),0.711954,0.838819

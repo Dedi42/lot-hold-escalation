@@ -1,0 +1,61 @@
+tag,variant,budget,rel,rel_lo,rel_hi,p_greater,Q_p,I2
+Ensemble vs Age (oldest first),"alpha(e), gamma 0.25",6,0.268145,0.143259,0.406673,4e-06,0.000529,0.916731
+Ensemble vs Age (oldest first),"alpha(e), gamma 0.25",12,0.19885,0.115416,0.288525,0.0,0.009783,0.850164
+Ensemble vs Age (oldest first),"alpha(e), gamma 0.25",24,0.167878,0.129405,0.20766,0.0,0.007321,0.860965
+Ensemble vs Age (oldest first),"alpha(e), gamma 0.25",48,0.076402,0.057443,0.095702,0.0,0.000518,0.917017
+Ensemble vs Age (oldest first),"alpha(e), gamma 0.5",6,0.280279,0.153241,0.42131,2e-06,8e-06,0.949718
+Ensemble vs Age (oldest first),"alpha(e), gamma 0.5",12,0.254859,0.158964,0.358688,0.0,0.000129,0.931744
+Ensemble vs Age (oldest first),"alpha(e), gamma 0.5",24,0.230626,0.184949,0.278065,0.0,0.0,0.963976
+Ensemble vs Age (oldest first),"alpha(e), gamma 0.5",48,0.105105,0.083615,0.127021,0.0,0.0,0.97567
+Ensemble vs Age (oldest first),"alpha(e), gamma 1",6,0.337311,0.214405,0.472656,0.0,0.0,0.969961
+Ensemble vs Age (oldest first),"alpha(e), gamma 1",12,0.344074,0.225491,0.474132,0.0,1e-06,0.959747
+Ensemble vs Age (oldest first),"alpha(e), gamma 1",24,0.292642,0.230874,0.35751,0.0,0.0,0.976655
+Ensemble vs Age (oldest first),"alpha(e), gamma 1",48,0.147729,0.119348,0.176828,0.0,0.0,0.988189
+Ensemble vs Age (oldest first),warm-up,6,0.190663,0.083545,0.30837,0.000143,0.128182,0.567919
+Ensemble vs Age (oldest first),warm-up,12,0.12617,0.054825,0.202341,0.000187,0.512318,0.0
+Ensemble vs Age (oldest first),warm-up,24,0.103895,0.069014,0.139914,0.0,0.521947,0.0
+Ensemble vs Age (oldest first),warm-up,48,0.052598,0.035495,0.069984,0.0,0.721325,0.0
+Ensemble vs Kaplan–Meier (D×R),"alpha(e), gamma 0.25",6,-0.002355,-0.070082,0.070305,0.526205,0.601661,0.0
+Ensemble vs Kaplan–Meier (D×R),"alpha(e), gamma 0.25",12,0.035783,0.001408,0.071337,0.020591,0.026774,0.796141
+Ensemble vs Kaplan–Meier (D×R),"alpha(e), gamma 0.25",24,0.06695,0.038802,0.09586,1e-06,0.002022,0.895063
+Ensemble vs Kaplan–Meier (D×R),"alpha(e), gamma 0.25",48,0.036747,0.019739,0.05404,1e-05,0.81821,0.0
+Ensemble vs Kaplan–Meier (D×R),"alpha(e), gamma 0.5",6,0.011644,-0.082323,0.115232,0.40798,0.942001,0.0
+Ensemble vs Kaplan–Meier (D×R),"alpha(e), gamma 0.5",12,0.053925,0.017387,0.091776,0.001764,0.067874,0.700032
+Ensemble vs Kaplan–Meier (D×R),"alpha(e), gamma 0.5",24,0.089544,0.05813,0.121891,0.0,0.006194,0.866539
+Ensemble vs Kaplan–Meier (D×R),"alpha(e), gamma 0.5",48,0.046036,0.027608,0.064795,0.0,0.368974,0.0
+Ensemble vs Kaplan–Meier (D×R),"alpha(e), gamma 1",6,0.040854,-0.088901,0.189089,0.277781,0.348926,0.0
+Ensemble vs Kaplan–Meier (D×R),"alpha(e), gamma 1",12,0.07867,0.030338,0.129269,0.000602,0.142899,0.534117
+Ensemble vs Kaplan–Meier (D×R),"alpha(e), gamma 1",24,0.13365,0.093119,0.175683,0.0,0.026217,0.797638
+Ensemble vs Kaplan–Meier (D×R),"alpha(e), gamma 1",48,0.069193,0.048151,0.090657,0.0,0.042028,0.758108
+Ensemble vs Kaplan–Meier (D×R),warm-up,6,-0.022089,-0.040124,-0.003715,0.990662,0.240894,0.272914
+Ensemble vs Kaplan–Meier (D×R),warm-up,12,0.008334,-0.027476,0.045464,0.326401,0.003334,0.883921
+Ensemble vs Kaplan–Meier (D×R),warm-up,24,0.052403,0.023457,0.082167,0.000166,0.00111,0.905967
+Ensemble vs Kaplan–Meier (D×R),warm-up,48,0.029143,0.013658,0.044864,0.000102,0.643155,0.0
+H7 Ensemble (gain) vs Ensemble,warm-up,6,-0.000806,-0.005102,0.003509,0.643074,0.70624,0.0
+H7 Ensemble (gain) vs Ensemble,warm-up,12,-0.010372,-0.018216,-0.002466,0.994887,0.040237,0.762351
+H7 Ensemble (gain) vs Ensemble,warm-up,24,-0.000392,-0.004964,0.0042,0.566638,0.029533,0.788863
+H7 Ensemble (gain) vs Ensemble,warm-up,48,-0.001442,-0.003776,0.000898,0.886576,0.747092,0.0
+H8a Transfer vs Age (oldest first),warm-up,6,0.020779,-0.062027,0.110895,0.316867,0.490048,0.0
+H8a Transfer vs Age (oldest first),warm-up,12,-0.022276,-0.078117,0.036948,0.773612,0.002646,0.889342
+H8a Transfer vs Age (oldest first),warm-up,24,-0.051282,-0.078033,-0.023754,0.999845,0.008941,0.853683
+H8a Transfer vs Age (oldest first),warm-up,48,-0.016519,-0.02832,-0.004575,0.99658,0.09334,0.644863
+H8b Transfer vs Ensemble,warm-up,6,-0.169402,-0.220166,-0.115334,1.0,0.236617,0.286039
+H8b Transfer vs Ensemble,warm-up,12,-0.122556,-0.183728,-0.056799,0.999804,0.087448,0.657621
+H8b Transfer vs Ensemble,warm-up,24,-0.145169,-0.191768,-0.095882,1.0,0.033064,0.779854
+H8b Transfer vs Ensemble,warm-up,48,-0.068836,-0.09126,-0.045858,1.0,0.148192,0.521705
+Kaplan–Meier (D×R) vs Age (oldest first),"alpha(e), gamma 0.25",6,0.236278,0.104754,0.38346,0.00011,0.000972,0.908082
+Kaplan–Meier (D×R) vs Age (oldest first),"alpha(e), gamma 0.25",12,0.04163,-0.00991,0.095853,0.057591,6.4e-05,0.937405
+Kaplan–Meier (D×R) vs Age (oldest first),"alpha(e), gamma 0.25",24,0.023786,0.001527,0.046539,0.018039,2e-06,0.956697
+Kaplan–Meier (D×R) vs Age (oldest first),"alpha(e), gamma 0.25",48,0.033453,0.019297,0.047806,1e-06,0.000707,0.912816
+Kaplan–Meier (D×R) vs Age (oldest first),"alpha(e), gamma 0.5",6,0.279802,0.123578,0.457749,0.000102,0.000195,0.927954
+Kaplan–Meier (D×R) vs Age (oldest first),"alpha(e), gamma 0.5",12,0.075123,0.012307,0.141837,0.009182,3e-06,0.954659
+Kaplan–Meier (D×R) vs Age (oldest first),"alpha(e), gamma 0.5",24,0.034223,0.008978,0.0601,0.003805,0.0,0.971511
+Kaplan–Meier (D×R) vs Age (oldest first),"alpha(e), gamma 0.5",48,0.043829,0.027775,0.060135,0.0,0.0,0.961821
+Kaplan–Meier (D×R) vs Age (oldest first),"alpha(e), gamma 1",6,0.408606,0.202014,0.650705,1.1e-05,5e-06,0.95213
+Kaplan–Meier (D×R) vs Age (oldest first),"alpha(e), gamma 1",12,0.136603,0.04909,0.231415,0.000867,0.0,0.962263
+Kaplan–Meier (D×R) vs Age (oldest first),"alpha(e), gamma 1",24,0.051851,0.02001,0.084686,0.000634,0.0,0.975539
+Kaplan–Meier (D×R) vs Age (oldest first),"alpha(e), gamma 1",48,0.05827,0.038001,0.078934,0.0,0.0,0.975383
+Kaplan–Meier (D×R) vs Age (oldest first),warm-up,6,0.164542,0.063722,0.274918,0.000488,0.031154,0.784689
+Kaplan–Meier (D×R) vs Age (oldest first),warm-up,12,0.00079,-0.04159,0.045043,0.485736,0.011835,0.842158
+Kaplan–Meier (D×R) vs Age (oldest first),warm-up,24,0.006353,-0.013389,0.026491,0.265487,0.035332,0.774217
+Kaplan–Meier (D×R) vs Age (oldest first),warm-up,48,0.021284,0.008677,0.034048,0.000445,0.435153,0.0

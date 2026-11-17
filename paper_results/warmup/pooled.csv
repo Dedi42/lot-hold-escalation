@@ -1,0 +1,93 @@
+tag,variant,budget,rel,rel_lo,rel_hi,p_greater,Q_p,I2,weight_line_A
+Ensemble vs Age (oldest first),main,6,0.171317,0.06696,0.285881,0.000448,0.19853,0.395097,0.550278
+Ensemble vs Age (oldest first),main,12,0.116927,0.052113,0.185733,0.000144,0.475675,0.0,0.727098
+Ensemble vs Age (oldest first),main,24,0.116935,0.084632,0.1502,0.0,0.250767,0.241864,0.718114
+Ensemble vs Age (oldest first),main,48,0.0577,0.04023,0.075462,0.0,0.283896,0.12918,0.876985
+Ensemble vs Age (oldest first),warm-up,6,0.190663,0.083545,0.30837,0.000143,0.128182,0.567919,0.544578
+Ensemble vs Age (oldest first),warm-up,12,0.12617,0.054825,0.202341,0.000187,0.512318,0.0,0.776649
+Ensemble vs Age (oldest first),warm-up,24,0.103895,0.069014,0.139914,0.0,0.521947,0.0,0.817624
+Ensemble vs Age (oldest first),warm-up,48,0.052598,0.035495,0.069984,0.0,0.721325,0.0,0.891118
+Ensemble vs Age (oldest first),"warm-up, effect worsening 0.5",6,0.145103,0.033958,0.268195,0.004647,0.491106,0.0,0.542508
+Ensemble vs Age (oldest first),"warm-up, effect worsening 0.5",12,0.116276,0.040396,0.19769,0.001097,0.879922,0.0,0.709625
+Ensemble vs Age (oldest first),"warm-up, effect worsening 0.5",24,0.099708,0.061652,0.139128,0.0,0.247207,0.253184,0.769356
+Ensemble vs Age (oldest first),"warm-up, effect worsening 0.5",48,0.052611,0.033263,0.072322,0.0,0.976628,0.0,0.85153
+Ensemble vs Age (oldest first),"warm-up, effect worsening 1",6,0.08169,-0.037161,0.215212,0.093033,0.719603,0.0,0.614018
+Ensemble vs Age (oldest first),"warm-up, effect worsening 1",12,0.092958,0.011483,0.180997,0.01226,0.494089,0.0,0.6823
+Ensemble vs Age (oldest first),"warm-up, effect worsening 1",24,0.09126,0.049175,0.135033,7e-06,0.079162,0.675538,0.746764
+Ensemble vs Age (oldest first),"warm-up, effect worsening 1",48,0.04965,0.028386,0.071354,2e-06,0.589385,0.0,0.814699
+Ensemble vs Age (oldest first),"warm-up, non-escalable removed",6,0.243426,0.113211,0.388873,5.7e-05,0.021041,0.812149,0.547303
+Ensemble vs Age (oldest first),"warm-up, non-escalable removed",12,0.133535,0.063638,0.208024,5.7e-05,0.697841,0.0,0.726353
+Ensemble vs Age (oldest first),"warm-up, non-escalable removed",24,0.103467,0.065636,0.142641,0.0,0.674008,0.0,0.801694
+Ensemble vs Age (oldest first),"warm-up, non-escalable removed",48,0.04924,0.030603,0.068214,0.0,0.864537,0.0,0.885135
+Ensemble vs Age <= tau,main,6,0.172828,0.071469,0.283776,0.000273,0.204569,0.378671,0.516286
+Ensemble vs Age <= tau,main,12,0.116927,0.052113,0.185733,0.000144,0.475675,0.0,0.727098
+Ensemble vs Age <= tau,main,24,0.116935,0.084632,0.1502,0.0,0.250767,0.241864,0.718114
+Ensemble vs Age <= tau,main,48,0.0577,0.04023,0.075462,0.0,0.283896,0.12918,0.876985
+Ensemble vs Age <= tau,warm-up,6,0.382241,0.331365,0.435061,0.0,0.000523,0.916881,0.086177
+Ensemble vs Age <= tau,warm-up,12,0.116996,0.051983,0.186026,0.000149,0.873685,0.0,0.651984
+Ensemble vs Age <= tau,warm-up,24,0.104318,0.069322,0.14046,0.0,0.549271,0.0,0.822505
+Ensemble vs Age <= tau,warm-up,48,0.052598,0.035495,0.069984,0.0,0.721325,0.0,0.891118
+Ensemble vs Age <= tau,"warm-up, non-escalable removed",6,0.300181,0.207391,0.400102,0.0,0.013886,0.834781,0.245186
+Ensemble vs Age <= tau,"warm-up, non-escalable removed",12,0.124775,0.056133,0.197879,0.000126,0.999247,0.0,0.711001
+Ensemble vs Age <= tau,"warm-up, non-escalable removed",24,0.103467,0.065636,0.142641,0.0,0.674008,0.0,0.801694
+Ensemble vs Age <= tau,"warm-up, non-escalable removed",48,0.04924,0.030603,0.068214,0.0,0.864537,0.0,0.885135
+Ensemble vs Kaplan–Meier (D×R),main,6,-0.000428,-0.037241,0.037793,0.508911,0.56146,0.0,0.126677
+Ensemble vs Kaplan–Meier (D×R),main,12,0.028196,-0.000952,0.058194,0.029041,0.049537,0.740735,0.113927
+Ensemble vs Kaplan–Meier (D×R),main,24,0.045513,0.018561,0.073177,0.000419,0.000774,0.911515,0.313354
+Ensemble vs Kaplan–Meier (D×R),main,48,0.034785,0.018974,0.05084,7e-06,0.734164,0.0,0.671093
+Ensemble vs Kaplan–Meier (D×R),warm-up,6,-0.022089,-0.040124,-0.003715,0.990662,0.240894,0.272914,0.038294
+Ensemble vs Kaplan–Meier (D×R),warm-up,12,0.008334,-0.027476,0.045464,0.326401,0.003334,0.883921,0.180065
+Ensemble vs Kaplan–Meier (D×R),warm-up,24,0.052403,0.023457,0.082167,0.000166,0.00111,0.905967,0.424291
+Ensemble vs Kaplan–Meier (D×R),warm-up,48,0.029143,0.013658,0.044864,0.000102,0.643155,0.0,0.782726
+Ensemble vs Kaplan–Meier (D×R),"warm-up, non-escalable removed",6,-0.035108,-0.083309,0.015628,0.914173,0.132576,0.557929,0.227554
+Ensemble vs Kaplan–Meier (D×R),"warm-up, non-escalable removed",12,0.025831,-0.01916,0.072887,0.132525,0.018664,0.819256,0.184431
+Ensemble vs Kaplan–Meier (D×R),"warm-up, non-escalable removed",24,0.059623,0.025655,0.094715,0.000247,0.011304,0.84416,0.432487
+Ensemble vs Kaplan–Meier (D×R),"warm-up, non-escalable removed",48,0.029876,0.014486,0.045498,6.3e-05,0.650282,0.0,0.697142
+"Ensemble vs p90, filled by oldest-first",main,6,0.362123,0.216068,0.525719,0.0,4e-06,0.953018,0.728929
+"Ensemble vs p90, filled by oldest-first",main,12,0.188149,0.099606,0.28382,6e-06,1e-06,0.958578,0.916921
+"Ensemble vs p90, filled by oldest-first",main,24,0.140452,0.100395,0.181967,0.0,0.0,0.974369,0.971163
+"Ensemble vs p90, filled by oldest-first",main,48,0.060894,0.041638,0.080505,0.0,6.7e-05,0.937112,0.992968
+"Ensemble vs p90, filled by oldest-first",warm-up,6,0.339995,0.195976,0.501357,0.0,1.3e-05,0.947509,0.755806
+"Ensemble vs p90, filled by oldest-first",warm-up,12,0.195636,0.104776,0.293968,5e-06,2e-06,0.954913,0.915674
+"Ensemble vs p90, filled by oldest-first",warm-up,24,0.131974,0.08975,0.175833,0.0,0.000148,0.930533,0.982399
+"Ensemble vs p90, filled by oldest-first",warm-up,48,0.056188,0.037416,0.0753,0.0,0.000219,0.926806,0.993631
+"Ensemble vs p90, filled by oldest-first","warm-up, non-escalable removed",6,0.372278,0.211766,0.554051,0.0,4e-06,0.953049,0.753574
+"Ensemble vs p90, filled by oldest-first","warm-up, non-escalable removed",12,0.224438,0.123835,0.334046,2e-06,2e-06,0.956589,0.903816
+"Ensemble vs p90, filled by oldest-first","warm-up, non-escalable removed",24,0.140064,0.096217,0.185665,0.0,0.0,0.962495,0.96997
+"Ensemble vs p90, filled by oldest-first","warm-up, non-escalable removed",48,0.054328,0.03391,0.075148,0.0,0.000155,0.930118,0.991246
+Kaplan–Meier (D×R) vs Age (oldest first),main,6,0.166712,0.075532,0.265623,0.000102,0.05958,0.718233,0.487703
+Kaplan–Meier (D×R) vs Age (oldest first),main,12,0.021712,-0.022671,0.06811,0.171577,0.009322,0.852073,0.767831
+Kaplan–Meier (D×R) vs Age (oldest first),main,24,0.011696,-0.011668,0.035613,0.164658,2.4e-05,0.944012,0.83211
+Kaplan–Meier (D×R) vs Age (oldest first),main,48,0.019456,0.006434,0.032646,0.001652,0.169155,0.471016,0.920835
+Kaplan–Meier (D×R) vs Age (oldest first),warm-up,6,0.164542,0.063722,0.274918,0.000488,0.031154,0.784689,0.618419
+Kaplan–Meier (D×R) vs Age (oldest first),warm-up,12,0.00079,-0.04159,0.045043,0.485736,0.011835,0.842158,0.909273
+Kaplan–Meier (D×R) vs Age (oldest first),warm-up,24,0.006353,-0.013389,0.026491,0.265487,0.035332,0.774217,0.885159
+Kaplan–Meier (D×R) vs Age (oldest first),warm-up,48,0.021284,0.008677,0.034048,0.000445,0.435153,0.0,0.920299
+Kaplan–Meier (D×R) vs Age (oldest first),"warm-up, non-escalable removed",6,0.225203,0.11216,0.349737,2e-05,0.000435,0.919191,0.605015
+Kaplan–Meier (D×R) vs Age (oldest first),"warm-up, non-escalable removed",12,0.00471,-0.040238,0.051763,0.42026,0.009749,0.850302,0.845658
+Kaplan–Meier (D×R) vs Age (oldest first),"warm-up, non-escalable removed",24,0.005243,-0.015267,0.026179,0.309531,0.029445,0.789092,0.86111
+Kaplan–Meier (D×R) vs Age (oldest first),"warm-up, non-escalable removed",48,0.017399,0.003557,0.031432,0.006792,0.564064,0.0,0.881461
+Static p90 rule vs Age (oldest first),main,6,-0.184271,-0.263879,-0.096053,0.999949,0.000903,0.909233,0.76904
+Static p90 rule vs Age (oldest first),main,12,-0.232104,-0.29891,-0.158932,1.0,0.001623,0.899328,0.88558
+Static p90 rule vs Age (oldest first),main,24,-0.364041,-0.427365,-0.293713,1.0,0.003425,0.883258,0.753519
+Static p90 rule vs Age (oldest first),main,48,-0.460538,-0.518824,-0.395191,1.0,0.020189,0.81466,0.585627
+Static p90 rule vs Age (oldest first),warm-up,6,-0.152127,-0.238137,-0.056407,0.998752,0.012108,0.841144,0.844079
+Static p90 rule vs Age (oldest first),warm-up,12,-0.218531,-0.287572,-0.142798,1.0,0.01616,0.82715,0.92487
+Static p90 rule vs Age (oldest first),warm-up,24,-0.382921,-0.443821,-0.315353,1.0,0.001195,0.904738,0.676096
+Static p90 rule vs Age (oldest first),warm-up,48,-0.455202,-0.510635,-0.393491,1.0,0.042726,0.756466,0.565286
+Static p90 rule vs Age (oldest first),"warm-up, non-escalable removed",6,-0.115902,-0.186399,-0.039298,0.998167,0.032464,0.781364,0.935192
+Static p90 rule vs Age (oldest first),"warm-up, non-escalable removed",12,-0.215037,-0.284983,-0.138248,1.0,0.003057,0.886016,0.913397
+Static p90 rule vs Age (oldest first),"warm-up, non-escalable removed",24,-0.391252,-0.451976,-0.323799,1.0,0.000434,0.919229,0.66812
+Static p90 rule vs Age (oldest first),"warm-up, non-escalable removed",48,-0.458941,-0.515457,-0.395833,1.0,0.034321,0.776717,0.575018
+"p90, filled by oldest-first vs Age (oldest first)",main,6,-0.065658,-0.109769,-0.019361,0.997041,2e-05,0.945072,0.948772
+"p90, filled by oldest-first vs Age (oldest first)",main,12,-0.023397,-0.05014,0.004099,0.952665,2e-06,0.955539,0.989352
+"p90, filled by oldest-first vs Age (oldest first)",main,24,-0.012783,-0.020814,-0.004685,0.998988,0.0,0.969573,0.998616
+"p90, filled by oldest-first vs Age (oldest first)",main,48,-0.00334,-0.006026,-0.000647,0.99245,0.000447,0.918857,0.999866
+"p90, filled by oldest-first vs Age (oldest first)",warm-up,6,-0.052804,-0.095946,-0.007603,0.988722,0.001612,0.899453,0.970384
+"p90, filled by oldest-first vs Age (oldest first)",warm-up,12,-0.017709,-0.043458,0.008733,0.906317,0.000259,0.925057,0.993804
+"p90, filled by oldest-first vs Age (oldest first)",warm-up,24,-0.010561,-0.017047,-0.004032,0.999222,7.1e-05,0.936656,0.999483
+"p90, filled by oldest-first vs Age (oldest first)",warm-up,48,-0.00177,-0.003818,0.000282,0.954561,0.000483,0.917887,0.999923
+"p90, filled by oldest-first vs Age (oldest first)","warm-up, non-escalable removed",6,-0.058189,-0.105475,-0.008404,0.988729,0.013177,0.837272,0.975096
+"p90, filled by oldest-first vs Age (oldest first)","warm-up, non-escalable removed",12,-0.022204,-0.050976,0.007439,0.929707,2.6e-05,0.9435,0.991132
+"p90, filled by oldest-first vs Age (oldest first)","warm-up, non-escalable removed",24,-0.010869,-0.015024,-0.006696,1.0,0.0,0.963913,0.999672
+"p90, filled by oldest-first vs Age (oldest first)","warm-up, non-escalable removed",48,-0.001889,-0.004043,0.00027,0.956841,0.000364,0.921307,0.999904
